@@ -1016,3 +1016,1335 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2026.03.03-19.16.17:786][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2026.03.03-19.16.17:960][  0]LogSlate: Took 0.007024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2026.03.03-19.16.17:974][  1]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
+[2026.03.03-19.25.41:171][681]LogRenderer: Reallocating scene render targets to support 804x588 Format 10 NumSamples 1 (Frame:4).
+[2026.03.03-19.25.57:296][258]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:539).
+[2026.03.03-19.26.01:016][696]LogRenderer: Reallocating scene render targets to support 1208x612 Format 10 NumSamples 1 (Frame:970).
+[2026.03.03-19.26.01:041][697]LogRenderer: Reallocating scene render targets to support 1208x632 Format 10 NumSamples 1 (Frame:972).
+[2026.03.03-19.26.01:069][698]LogRenderer: Reallocating scene render targets to support 1208x660 Format 10 NumSamples 1 (Frame:974).
+[2026.03.03-19.26.01:097][699]LogRenderer: Reallocating scene render targets to support 1208x696 Format 10 NumSamples 1 (Frame:976).
+[2026.03.03-19.26.01:122][700]LogRenderer: Reallocating scene render targets to support 1208x720 Format 10 NumSamples 1 (Frame:978).
+[2026.03.03-19.26.01:153][701]LogRenderer: Reallocating scene render targets to support 1208x732 Format 10 NumSamples 1 (Frame:980).
+[2026.03.03-19.26.01:179][702]LogRenderer: Reallocating scene render targets to support 1208x736 Format 10 NumSamples 1 (Frame:982).
+[2026.03.03-19.26.01:206][703]LogRenderer: Reallocating scene render targets to support 1208x744 Format 10 NumSamples 1 (Frame:984).
+[2026.03.03-19.26.01:233][704]LogRenderer: Reallocating scene render targets to support 1208x748 Format 10 NumSamples 1 (Frame:986).
+[2026.03.03-19.26.01:255][705]LogRenderer: Reallocating scene render targets to support 1208x764 Format 10 NumSamples 1 (Frame:988).
+[2026.03.03-19.26.01:275][706]LogRenderer: Reallocating scene render targets to support 1208x768 Format 10 NumSamples 1 (Frame:990).
+[2026.03.03-19.26.01:304][707]LogRenderer: Reallocating scene render targets to support 1208x776 Format 10 NumSamples 1 (Frame:992).
+[2026.03.03-19.26.01:333][708]LogRenderer: Reallocating scene render targets to support 1208x780 Format 10 NumSamples 1 (Frame:994).
+[2026.03.03-19.26.01:359][709]LogRenderer: Reallocating scene render targets to support 1208x784 Format 10 NumSamples 1 (Frame:996).
+[2026.03.03-19.31.26:351][ 99]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2026.03.03-19.31.27:661][208]Cmd: DELETE
+[2026.03.03-19.31.27:673][208]Cmd: ACTOR DELETE
+[2026.03.03-19.31.28:146][208]LogEditorActor: Deleted Actor: PlayerStart
+[2026.03.03-19.31.28:185][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.03.03-19.31.28:186][208]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2026.03.03-19.31.29:170][322]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2026.03.03-19.31.30:517][448]Cmd: DELETE
+[2026.03.03-19.31.30:517][448]Cmd: ACTOR DELETE
+[2026.03.03-19.31.30:518][448]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2026.03.03-19.31.30:522][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.03-19.31.30:522][448]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2026.03.03-19.31.31:593][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2026.03.03-19.31.44:207][898]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.03.03-19.31.44:215][898]LogContentBrowser: Creating deferred item: NewWorld
+[2026.03.03-19.33.10:685][267]LogContentBrowser: Attempting asset rename: NewWorld -> Security_Camera_Room
+[2026.03.03-19.33.10:872][267]LogContentBrowser: End creating deferred item NewWorld
+[2026.03.03-19.33.12:462][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.03.03-19.33.16:584][445]LogSlate: Window 'Save Content' being destroyed
+[2026.03.03-19.33.16:608][445]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.03-19.33.16:622][445]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Security_Camera_Room.Security_Camera_Room
+[2026.03.03-19.33.16:622][445]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Security_Camera_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.03-19.33.16:622][445]LightingResults: New page: Lighting Build
+[2026.03.03-19.33.16:622][445]LoadErrors: New page: Loading map: Security_Camera_Room.umap
+[2026.03.03-19.33.16:624][445]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-19.33.16:624][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-19.33.16:642][445]MapCheck: New page: Map Check
+[2026.03.03-19.33.16:642][445]LightingResults: New page: Lighting Build
+[2026.03.03-19.33.16:645][445]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-19.33.16:646][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.03-19.33.16:646][445]LogAudio: Display: Audio Device (ID: 1) registered with world 'Security_Camera_Room'.
+[2026.03.03-19.33.16:647][445]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.03-19.33.16:647][445]LogAIModule: Creating AISystem for world Security_Camera_Room
+[2026.03.03-19.33.16:660][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.03-19.33.16:662][445]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.03-19.33.16:662][445]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.06ms to complete.
+[2026.03.03-19.33.16:662][445]LogFileHelpers: Loading map 'Security_Camera_Room' took 0.039
+[2026.03.03-19.33.26:548][544]LogActorFactory: Actor Factory created Plane
+[2026.03.03-19.33.26:748][544]LogActorFactory: Actor Factory created Plane
+[2026.03.03-19.34.07:511][356]Cmd: DELETE
+[2026.03.03-19.34.07:511][356]Cmd: ACTOR DELETE
+[2026.03.03-19.34.07:513][356]LogEditorActor: Deleted Actor: SkyLight
+[2026.03.03-19.34.07:517][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.03.03-19.34.07:517][356]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2026.03.03-19.34.13:350][ 40]Cmd: TRANSACTION UNDO
+[2026.03.03-19.34.13:361][ 40]LogEditorTransaction: Undo Create Actors
+[2026.03.03-19.34.16:687][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.03-19.34.20:852][388]LogSlate: Window 'Save Content' being destroyed
+[2026.03.03-19.34.20:871][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Security_Camera_Room" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Security_Camera_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.03-19.34.20:876][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-19.34.20:878][388]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Security_Camera_Room940385764E67EC0B88851E80F784CB53.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Security_Camera_Room.umap'
+[2026.03.03-19.34.20:881][388]LogFileHelpers: Saving map 'Security_Camera_Room' took 0.008
+[2026.03.03-19.34.20:971][388]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Basic.Basic
+[2026.03.03-19.34.20:972][388]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Basic.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.03-19.34.20:972][388]LightingResults: New page: Lighting Build
+[2026.03.03-19.34.20:972][388]LoadErrors: New page: Loading map: Basic.umap
+[2026.03.03-19.34.21:010][388]LogWorld: UWorld::CleanupWorld for Security_Camera_Room, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-19.34.21:010][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-19.34.21:010][388]MapCheck: New page: Map Check
+[2026.03.03-19.34.21:010][388]LightingResults: New page: Lighting Build
+[2026.03.03-19.34.21:012][388]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-19.34.21:015][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.03.03-19.34.21:015][388]LogAudio: Display: Audio Device (ID: 1) registered with world 'Basic'.
+[2026.03.03-19.34.21:022][388]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.03-19.34.21:022][388]LogAIModule: Creating AISystem for world Basic
+[2026.03.03-19.34.21:027][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.03-19.34.21:030][388]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.03-19.34.21:030][388]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.052ms to complete.
+[2026.03.03-19.34.21:030][388]LogFileHelpers: Loading map 'Basic' took 0.058
+[2026.03.03-19.34.21:054][388]AssetCheck: New page: Asset Save: Security_Camera_Room
+[2026.03.03-19.34.21:054][388]LogContentValidation: Display: Validating World /Game/Maps/Security_Camera_Room.Security_Camera_Room
+[2026.03.03-19.34.54:637][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.03-19.34.54:654][384]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Security_Camera_Room.Security_Camera_Room
+[2026.03.03-19.34.54:654][384]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Security_Camera_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.03-19.34.54:654][384]LightingResults: New page: Lighting Build
+[2026.03.03-19.34.54:654][384]LoadErrors: New page: Loading map: Security_Camera_Room.umap
+[2026.03.03-19.34.54:681][384]LogWorld: UWorld::CleanupWorld for Basic, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-19.34.54:681][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-19.34.54:681][384]MapCheck: New page: Map Check
+[2026.03.03-19.34.54:681][384]LightingResults: New page: Lighting Build
+[2026.03.03-19.34.54:684][384]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-19.34.54:685][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.03-19.34.54:685][384]LogAudio: Display: Audio Device (ID: 1) registered with world 'Security_Camera_Room'.
+[2026.03.03-19.34.54:686][384]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.03-19.34.54:686][384]LogAIModule: Creating AISystem for world Security_Camera_Room
+[2026.03.03-19.34.54:691][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.03.03-19.34.54:694][384]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.03-19.34.54:694][384]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.051ms to complete.
+[2026.03.03-19.34.54:694][384]LogFileHelpers: Loading map 'Security_Camera_Room' took 0.039
+[2026.03.03-19.35.37:546][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.03-19.35.37:578][457]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Basic.Basic
+[2026.03.03-19.35.37:578][457]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Basic.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.03-19.35.37:578][457]LightingResults: New page: Lighting Build
+[2026.03.03-19.35.37:578][457]LoadErrors: New page: Loading map: Basic.umap
+[2026.03.03-19.35.37:602][457]LogWorld: UWorld::CleanupWorld for Security_Camera_Room, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-19.35.37:602][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-19.35.37:602][457]MapCheck: New page: Map Check
+[2026.03.03-19.35.37:602][457]LightingResults: New page: Lighting Build
+[2026.03.03-19.35.37:605][457]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-19.35.37:607][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.03.03-19.35.37:607][457]LogAudio: Display: Audio Device (ID: 1) registered with world 'Basic'.
+[2026.03.03-19.35.37:609][457]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.03-19.35.37:609][457]LogAIModule: Creating AISystem for world Basic
+[2026.03.03-19.35.37:613][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.03-19.35.37:615][457]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.03-19.35.37:615][457]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.052ms to complete.
+[2026.03.03-19.35.37:615][457]LogFileHelpers: Loading map 'Basic' took 0.038
+[2026.03.03-19.35.44:492][272]Cmd: EDIT COPY
+[2026.03.03-19.35.45:811][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.03-19.35.45:840][423]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Security_Camera_Room.Security_Camera_Room
+[2026.03.03-19.35.45:840][423]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Security_Camera_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.03-19.35.45:840][423]LightingResults: New page: Lighting Build
+[2026.03.03-19.35.45:840][423]LoadErrors: New page: Loading map: Security_Camera_Room.umap
+[2026.03.03-19.35.45:862][423]LogWorld: UWorld::CleanupWorld for Basic, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-19.35.45:862][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-19.35.45:862][423]MapCheck: New page: Map Check
+[2026.03.03-19.35.45:862][423]LightingResults: New page: Lighting Build
+[2026.03.03-19.35.45:866][423]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-19.35.45:867][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.03-19.35.45:867][423]LogAudio: Display: Audio Device (ID: 1) registered with world 'Security_Camera_Room'.
+[2026.03.03-19.35.45:868][423]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.03-19.35.45:868][423]LogAIModule: Creating AISystem for world Security_Camera_Room
+[2026.03.03-19.35.45:873][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.03.03-19.35.45:875][423]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.03-19.35.45:875][423]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.053ms to complete.
+[2026.03.03-19.35.45:875][423]LogFileHelpers: Loading map 'Security_Camera_Room' took 0.035
+[2026.03.03-19.35.48:200][697]Cmd: EDIT PASTE
+[2026.03.03-19.35.48:280][697]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.03-19.36.10:527][312]Cmd: DELETE
+[2026.03.03-19.36.10:527][312]Cmd: ACTOR DELETE
+[2026.03.03-19.36.10:528][312]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-19.36.10:532][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.03-19.36.10:532][312]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2026.03.03-19.36.13:335][641]Cmd: DELETE
+[2026.03.03-19.36.13:335][641]Cmd: ACTOR DELETE
+[2026.03.03-19.36.13:336][641]LogEditorActor: Deleted Actor: PlayerStart
+[2026.03.03-19.36.13:339][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.03-19.36.13:340][641]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2026.03.03-19.36.36:345][395]Cmd: DELETE
+[2026.03.03-19.36.36:345][395]Cmd: ACTOR DELETE
+[2026.03.03-19.36.36:346][395]LogEditorActor: Deleted Actor: SkyLight
+[2026.03.03-19.36.36:349][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.03-19.36.36:350][395]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2026.03.03-19.36.40:543][894]Cmd: DELETE
+[2026.03.03-19.36.40:543][894]Cmd: ACTOR DELETE
+[2026.03.03-19.36.40:543][894]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2026.03.03-19.36.40:547][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.03-19.36.40:548][894]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2026.03.03-19.36.52:106][261]LogSlate: Took 0.013718 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.03.03-19.37.36:372][416]MapCheck: New page: Map Check
+[2026.03.03-19.37.36:468][416]Cmd: MAP REBUILD ALLVISIBLE
+[2026.03.03-19.37.36:468][416]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2026.03.03-19.37.36:469][416]LogWorld: UWorld::CleanupWorld for Security_Camera_Room, bSessionEnded=true, bCleanupResources=false
+[2026.03.03-19.37.36:490][416]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2026.03.03-19.37.36:490][416]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2026.03.03-19.37.36:490][416]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2026.03.03-19.37.36:510][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.03.03-19.37.36:635][416]LogLevel: Display: Export Material TexCoord Scales took 0.098 seconds.
+[2026.03.03-19.37.36:666][416]TextureStreamingBuild: Display: Build Texture Streaming took 0.030 seconds.
+[2026.03.03-19.37.36:669][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.03-19.37.36:689][416]LightingResults: New page: Lighting Build - Mar 3, 2026, 7:37:36 AM
+[2026.03.03-19.37.37:005][416]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2026.03.03-19.37.37:422][416]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2026.03.03-19.37.37:434][416]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2026.03.03-19.37.38:469][416]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2026.03.03-19.37.38:469][416]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13728
+[2026.03.03-19.37.46:920][416]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2026.03.03-19.37.46:925][416]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2026.03.03-19.37.46:925][416]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2026.03.03-19.37.46:925][416]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2026.03.03-19.37.46:925][416]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2026.03.03-19.37.46:925][416]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2026.03.03-19.37.47:044][416]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2026.03.03-19.37.47:044][416]MapCheck: New page: Security_Camera_Room - Mar 3, 2026, 7:37:47 AM
+[2026.03.03-19.37.47:069][416]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2026.03.03-19.37.47:178][416]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 134.213ms to complete.
+[2026.03.03-19.37.47:188][416]LogEditorBuildUtils: Build time 0:10
+[2026.03.03-19.37.47:347][416]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 566327371A74C7967063283C449C5ED092DC16D9), compiling. 
+[2026.03.03-19.37.47:449][416]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2026.03.03-19.37.47:540][416]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2026.03.03-19.37.47:540][416]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2026.03.03-19.37.47:540][416]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2026.03.03-19.37.47:540][416]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 40E5401A258115C121855648548B132F6B798F34), compiling. 
+[2026.03.03-19.37.47:576][416]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2026.03.03-19.37.47:928][416]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2026.03.03-19.37.47:928][416]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2026.03.03-19.37.47:928][416]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2026.03.03-19.37.47:928][416]LogSlate: Took 0.109619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.03.03-19.37.47:943][417]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E196F04F6F9970EA62120D75BF8070669BA10977), compiling. 
+[2026.03.03-19.37.47:970][417]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2026.03.03-19.37.47:970][417]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2026.03.03-19.37.47:970][417]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2026.03.03-19.37.47:970][417]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2026.03.03-19.37.47:970][417]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ED95D2B258450F45B96DD24FF92CD0213EF3DA23), compiling. 
+[2026.03.03-19.37.47:975][417]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2026.03.03-19.37.48:005][417]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2026.03.03-19.37.48:005][417]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2026.03.03-19.37.48:005][417]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2026.03.03-19.37.48:016][418]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 09BE4C7A08E9CF5953A86E83F05117832C1466B9), compiling. Is special engine material.
+[2026.03.03-19.37.48:019][418]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2026.03.03-19.37.48:023][418]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A2E71CE4DF26E5630E073D9FE8BE1AFD709D796A), compiling. Is special engine material.
+[2026.03.03-19.37.48:025][418]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2026.03.03-19.37.50:358][419]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2026.03.03-19.37.50:358][419]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2026.03.03-19.37.50:358][419]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2026.03.03-19.37.50:358][419]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2026.03.03-19.37.50:358][419]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2026.03.03-19.37.50:358][419]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2026.03.03-19.37.50:358][419]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2026.03.03-19.37.50:358][419]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.03-19.37.50:358][419]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2026.03.03-19.37.50:358][419]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 6 distinct outputs (50.00%)
+[2026.03.03-19.37.50:358][419]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 2457.60 MB (2.40 GB) budget. Usage: 0.00%
+[2026.03.03-19.37.50:358][419]LogShaderCompilers: Display: ================================================
+[2026.03.03-19.37.50:643][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.03-19.37.52:455][473]Job is a success!
+[2026.03.03-19.37.52:670][474]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.035s
+[2026.03.03-19.37.52:670][474]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2026.03.03-19.37.52:670][474]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2026.03.03-19.37.52:670][474]LogVolumetricLightmapImport:      Bricks at depth
+[2026.03.03-19.37.52:670][474]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2026.03.03-19.37.52:670][474]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2026.03.03-19.37.52:670][474]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2026.03.03-19.37.52:670][474]LogVolumetricLightmapImport:      Bricks in each level
+[2026.03.03-19.37.52:670][474]LogVolumetricLightmapImport:          Security_Camera_Room 			 3 bricks 	 100.0% (Persistent Level)
+[2026.03.03-19.37.52:830][474]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2026.03.03-19.37.52:830][474]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2026.03.03-19.37.52:830][474]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2026.03.03-19.37.52:830][474]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2026.03.03-19.37.52:902][474]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2026.03.03-19.37.52:902][474]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2026.03.03-19.37.52:902][474]Lightmass on MAIN: 820 ms total, 72 ms importing, 5 ms setup, 43 ms photons, 642 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 7.05 sec total, 79 ms processing.
+[2026.03.03-19.37.52:902][474]LogStaticLightingSystem: Security_Camera_Room_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2026.03.03-19.37.52:906][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.03.03-19.37.52:996][474]LogStaticLightingSystem: Illumination: 16.1 sec (101 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2026.03.03-19.37.52:996][474]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2026.03.03-19.37.52:996][474]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2026.03.03-19.37.53:914][474]DumpUnbuiltLightIteractions
+[2026.03.03-19.37.53:914][474]Lights with unbuilt interactions: 0
+[2026.03.03-19.37.53:914][474]
+[2026.03.03-19.37.53:914][474]Primitives with unbuilt interactions: 0
+[2026.03.03-19.37.53:981][475]Cmd: MAP CHECK NOTIFYRESULTS
+[2026.03.03-19.37.53:981][475]MapCheck: New page: Security_Camera_Room - Mar 3, 2026, 7:37:53 AM
+[2026.03.03-19.37.53:982][475]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.216ms to complete.
+[2026.03.03-19.37.56:818][814]LogSlate: Window 'Message Log' being destroyed
+[2026.03.03-19.37.56:821][814]LogSlate: Window 'Message Log' being destroyed
+[2026.03.03-19.38.29:120][601]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.03-19.38.37:269][558]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.03-19.38.42:445][154]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.03-19.38.47:405][745]MapCheck: New page: Map Check
+[2026.03.03-19.38.47:423][745]Cmd: MAP REBUILD ALLVISIBLE
+[2026.03.03-19.38.47:423][745]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2026.03.03-19.38.47:423][745]LogWorld: UWorld::CleanupWorld for Security_Camera_Room, bSessionEnded=true, bCleanupResources=false
+[2026.03.03-19.38.47:427][745]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2026.03.03-19.38.47:427][745]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2026.03.03-19.38.47:427][745]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2026.03.03-19.38.47:444][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.03.03-19.38.47:446][745]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2026.03.03-19.38.47:447][745]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2026.03.03-19.38.47:451][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-19.38.47:452][745]LightingResults: New page: Lighting Build - Mar 3, 2026, 7:38:47 AM
+[2026.03.03-19.38.47:454][745]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2026.03.03-19.38.47:460][745]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2026.03.03-19.38.47:460][745]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2026.03.03-19.38.47:460][745]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2026.03.03-19.38.47:461][745]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13728
+[2026.03.03-19.38.52:921][745]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2026.03.03-19.38.52:921][745]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2026.03.03-19.38.52:921][745]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2026.03.03-19.38.52:921][745]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2026.03.03-19.38.52:921][745]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2026.03.03-19.38.52:921][745]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2026.03.03-19.38.52:989][745]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2026.03.03-19.38.52:989][745]MapCheck: New page: Security_Camera_Room - Mar 3, 2026, 7:38:52 AM
+[2026.03.03-19.38.52:989][745]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.247ms to complete.
+[2026.03.03-19.38.52:991][745]LogEditorBuildUtils: Build time 0:05
+[2026.03.03-19.38.53:076][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.03.03-19.38.53:785][773]Job is a success!
+[2026.03.03-19.38.53:978][775]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2026.03.03-19.38.53:978][775]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2026.03.03-19.38.53:978][775]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2026.03.03-19.38.53:978][775]LogVolumetricLightmapImport:      Bricks at depth
+[2026.03.03-19.38.53:978][775]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2026.03.03-19.38.53:978][775]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2026.03.03-19.38.53:978][775]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2026.03.03-19.38.53:978][775]LogVolumetricLightmapImport:      Bricks in each level
+[2026.03.03-19.38.53:978][775]LogVolumetricLightmapImport:          Security_Camera_Room 			 3 bricks 	 100.0% (Persistent Level)
+[2026.03.03-19.38.53:992][775]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 256X256)
+[2026.03.03-19.38.53:992][775]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 256X256)
+[2026.03.03-19.38.53:992][775]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2026.03.03-19.38.53:992][775]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2026.03.03-19.38.53:992][775]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2026.03.03-19.38.53:992][775]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2026.03.03-19.38.53:992][775]LogStaticLightingSystem: Security_Camera_Room_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2026.03.03-19.38.53:999][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.03.03-19.38.54:033][775]Lightmass on MAIN: 644 ms total, 61 ms importing, 5 ms setup, 53 ms photons, 458 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 5.03 sec total, 77 ms processing.
+[2026.03.03-19.38.54:074][775]LogStaticLightingSystem: Illumination: 6.52 sec (3 ms encoding lightmaps, 5 ms encoding shadowmaps)
+[2026.03.03-19.38.54:074][775]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2026.03.03-19.38.54:074][775]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2026.03.03-19.38.54:922][775]DumpUnbuiltLightIteractions
+[2026.03.03-19.38.54:922][775]Lights with unbuilt interactions: 0
+[2026.03.03-19.38.54:922][775]
+[2026.03.03-19.38.54:922][775]Primitives with unbuilt interactions: 0
+[2026.03.03-19.38.54:981][776]Cmd: MAP CHECK NOTIFYRESULTS
+[2026.03.03-19.38.54:981][776]MapCheck: New page: Security_Camera_Room - Mar 3, 2026, 7:38:54 AM
+[2026.03.03-19.38.54:981][776]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2026.03.03-19.40.28:102][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.03.03-19.40.29:958][782]LogSlate: Window 'Save Content' being destroyed
+[2026.03.03-19.40.29:991][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Security_Camera_Room" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Security_Camera_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.03-19.40.29:994][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-19.40.29:999][782]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Security_Camera_Room158DFDD94228B2DACA80969D4BFDBAA5.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Security_Camera_Room.umap'
+[2026.03.03-19.40.30:002][782]LogFileHelpers: Saving map 'Security_Camera_Room' took 0.011
+[2026.03.03-19.40.30:002][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Security_Camera_Room_BuiltData" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Security_Camera_Room_BuiltData.uasset" SILENT=true
+[2026.03.03-19.40.30:006][782]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Security_Camera_Room_BuiltData550494094CC8EEFF3B9BE4A4D9F88666.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Security_Camera_Room_BuiltData.uasset'
+[2026.03.03-19.40.30:023][782]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Security_Camera_Room.Security_Camera_Room
+[2026.03.03-19.40.30:023][782]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Security_Camera_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.03-19.40.30:024][782]LightingResults: New page: Lighting Build
+[2026.03.03-19.40.30:024][782]LoadErrors: New page: Loading map: Security_Camera_Room.umap
+[2026.03.03-19.40.30:024][782]LogWorld: UWorld::CleanupWorld for Security_Camera_Room, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-19.40.30:025][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-19.40.30:025][782]MapCheck: New page: Map Check
+[2026.03.03-19.40.30:025][782]LightingResults: New page: Lighting Build
+[2026.03.03-19.40.30:028][782]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-19.40.30:029][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.03-19.40.30:032][782]LogAudio: Display: Audio Device (ID: 1) registered with world 'Security_Camera_Room'.
+[2026.03.03-19.40.30:032][782]LogAIModule: Creating AISystem for world Security_Camera_Room
+[2026.03.03-19.40.30:034][782]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.03-19.40.30:040][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.03.03-19.40.30:042][782]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.03-19.40.30:042][782]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.052ms to complete.
+[2026.03.03-19.40.30:042][782]LogFileHelpers: Loading map 'Security_Camera_Room' took 0.018
+[2026.03.03-19.40.30:064][782]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.03-19.40.30:064][782]LogContentValidation: Display: Validating World /Game/Maps/Security_Camera_Room.Security_Camera_Room
+[2026.03.03-19.40.30:064][782]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Security_Camera_Room_BuiltData.Security_Camera_Room_BuiltData
+[2026.03.03-19.40.45:572][610]LogContentBrowser: Attempting asset rename: Security_Camera_Room -> Drone_Camera_Player
+[2026.03.03-19.40.45:641][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player_BuiltData" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset" SILENT=true
+[2026.03.03-19.40.45:645][610]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player_BuiltData725FAEA44EE70F0EDE51DDBD3BA2AAC4.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset'
+[2026.03.03-19.40.45:649][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.03-19.40.45:654][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.03.03-19.40.45:659][610]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_PlayerAAADA26F4309BD8BF3837CAC27D04E5A.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap'
+[2026.03.03-19.40.45:669][610]LogFileHelpers: Saving map 'Drone_Camera_Player' took 0.019
+[2026.03.03-19.40.45:775][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-19.40.45:779][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.03-19.40.45:787][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.03-19.40.45:790][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.03.03-19.40.45:988][610]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.03-19.40.45:988][610]LogContentValidation: Display: Validating World /Game/Maps/Drone_Camera_Player.Drone_Camera_Player
+[2026.03.03-19.40.45:988][610]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Drone_Camera_Player_BuiltData.Drone_Camera_Player_BuiltData
+[2026.03.03-19.42.16:988][330]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.03-19.42.17:005][330]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.03-19.42.30:556][956]LogContentBrowser: Attempting asset rename: NewFolder -> Player_Movement
+[2026.03.03-19.42.30:556][956]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.03-19.43.01:642][205]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\game art\my pixel animation templete.png)
+[2026.03.03-19.43.01:644][205]LogTexture: Display: Building textures: my_pixel_animation_templete (BGRA8, 218X186)
+[2026.03.03-19.43.08:174][601]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Player/my_pixel_animation_templete.my_pixel_animation_templete
+[2026.03.03-19.43.08:237][601]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2026.03.03-19.43.15:224][396]LogSlate: Window 'my_pixel_animation_templete' being destroyed
+[2026.03.03-19.43.15:229][396]LogSlate: Window 'my_pixel_animation_templete' being destroyed
+[2026.03.03-19.43.28:293][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.03-19.43.28:298][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.03-19.43.28:303][944]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_PlayerBBB0E6F44FB1D3873A6323A626BB2A11.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap'
+[2026.03.03-19.43.28:307][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player_BuiltData" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset" SILENT=true
+[2026.03.03-19.43.28:311][944]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player_BuiltDataA01B147341494266564869BD2CF146CD.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset'
+[2026.03.03-19.43.28:321][944]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.03-19.43.28:321][944]LogContentValidation: Display: Validating World /Game/Maps/Drone_Camera_Player.Drone_Camera_Player
+[2026.03.03-19.43.28:321][944]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Drone_Camera_Player_BuiltData.Drone_Camera_Player_BuiltData
+[2026.03.03-19.45.43:258][654]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.03.03-19.45.53:559][654]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.03-19.46.07:102][828]LogLinker: Warning: Failed to load '/Game/Player/Player_TopDown_Pixel': Can't find file.
+[2026.03.03-19.46.07:104][828]LogLinker: Warning: Failed to load '/Game/Player/Player_TopDown_Pixel': Can't find file.
+[2026.03.03-19.46.07:104][828]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Player/Player_TopDown_Pixel.Player_TopDown_Pixel'
+[2026.03.03-19.47.27:689][393]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.03-19.47.27:694][393]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.03-19.47.27:700][393]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.03-19.47.59:714][232]LogContentBrowser: Attempting asset rename: NewBlueprint -> Husband_Drone_Top_Down
+[2026.03.03-19.47.59:790][232]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.03-19.48.19:334][387]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.03-19.48.19:357][387]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.03-19.48.24:843][ 42]LogContentBrowser: Attempting asset rename: NewFolder -> Husband_Movement
+[2026.03.03-19.48.24:844][ 42]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.03-19.48.31:356][796]LogMetaData: Removing '/Game/Husband/Husband_Drone_Top_Down.Husband_Drone_Top_Down:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Player/Husband_Drone_Top_Down.PackageMetaData'
+[2026.03.03-19.48.31:356][796]LogMetaData: Removing '/Game/Husband/Husband_Drone_Top_Down.SKEL_Husband_Drone_Top_Down_C:UserConstructionScript' ref from Metadata '/Game/Player/Husband_Drone_Top_Down.PackageMetaData'
+[2026.03.03-19.48.31:356][796]LogMetaData: Removing '/Game/Husband/Husband_Drone_Top_Down.SKEL_Husband_Drone_Top_Down_C' ref from Metadata '/Game/Player/Husband_Drone_Top_Down.PackageMetaData'
+[2026.03.03-19.48.31:356][796]LogMetaData: Removing '/Game/Husband/Husband_Drone_Top_Down.Husband_Drone_Top_Down_C' ref from Metadata '/Game/Player/Husband_Drone_Top_Down.PackageMetaData'
+[2026.03.03-19.48.31:356][796]LogMetaData: Removing '/Game/Husband/Husband_Drone_Top_Down.Husband_Drone_Top_Down:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Player/Husband_Drone_Top_Down.PackageMetaData'
+[2026.03.03-19.48.31:356][796]LogMetaData: Removing '/Game/Husband/Husband_Drone_Top_Down.Husband_Drone_Top_Down:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Player/Husband_Drone_Top_Down.PackageMetaData'
+[2026.03.03-19.48.31:356][796]LogMetaData: Removing '/Game/Husband/Husband_Drone_Top_Down.Husband_Drone_Top_Down:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Player/Husband_Drone_Top_Down.PackageMetaData'
+[2026.03.03-19.48.31:426][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Drone_Top_Down" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Drone_Top_Down.uasset" SILENT=true
+[2026.03.03-19.48.31:565][796]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Drone_Top_Down2F46530246E83A46455B4DAB75465595.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Drone_Top_Down.uasset'
+[2026.03.03-19.48.31:576][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/my_pixel_animation_templete" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/my_pixel_animation_templete.uasset" SILENT=true
+[2026.03.03-19.48.31:578][796]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/my_pixel_animation_templeteACECB22F4A2859C4C739DC9087B960A6.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/my_pixel_animation_templete.uasset'
+[2026.03.03-19.48.31:618][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.03-19.48.31:624][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.03-19.48.31:633][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.03-19.48.31:637][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.03-19.48.31:686][796]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.03-19.48.31:686][796]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Drone_Top_Down.Husband_Drone_Top_Down
+[2026.03.03-19.48.31:686][796]LogContentValidation: Display: Validating Texture2D /Game/Husband/my_pixel_animation_templete.my_pixel_animation_templete
+[2026.03.03-19.48.35:141][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.03-19.48.35:146][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.03-19.48.35:151][199]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_PlayerC5C1F6D442063232EBE4BEB8F22B1568.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap'
+[2026.03.03-19.48.35:156][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player_BuiltData" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset" SILENT=true
+[2026.03.03-19.48.35:161][199]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player_BuiltDataA454A898458ADFDFE2AFE18C6958194A.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset'
+[2026.03.03-19.48.35:171][199]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.03-19.48.35:171][199]LogContentValidation: Display: Validating World /Game/Maps/Drone_Camera_Player.Drone_Camera_Player
+[2026.03.03-19.48.35:171][199]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Drone_Camera_Player_BuiltData.Drone_Camera_Player_BuiltData
+[2026.03.03-19.49.27:410][446]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Husband/Husband_Drone_Top_Down.Husband_Drone_Top_Down
+[2026.03.03-19.49.28:355][446]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2026.03.03-19.49.57:479][496]LogSlate: Window 'Tutorials' being destroyed
+[2026.03.03-19.49.57:483][496]LogSlate: Window 'Tutorials' being destroyed
+[2026.03.03-19.50.11:351][ 91]LogSlate: Window 'Tutorials' being destroyed
+[2026.03.03-19.50.11:354][ 91]LogSlate: Window 'Tutorials' being destroyed
+[2026.03.03-19.50.25:960][729]LogRenderer: Reallocating scene render targets to support 1208x920 Format 10 NumSamples 1 (Frame:5975).
+[2026.03.03-19.50.26:611][807]LogSlate: Window 'Husband_Drone_Top_Down' being destroyed
+[2026.03.03-19.51.00:579][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.03.03-19.51.02:125][412]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.03-19.51.02:186][412]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-19.51.02:186][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-19.51.02:265][412]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Husband/Husband_Drone_Top_Down.Husband_Drone_Top_Down
+[2026.03.03-19.51.04:535][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.03.03-19.51.04:546][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.03.03-19.51.04:558][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.03-19.52.45:235][894]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.03-19.52.45:240][894]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.03-19.52.45:249][894]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.03-19.52.55:103][ 77]LogContentBrowser: Attempting asset rename: NewBlueprint -> Husband_Character
+[2026.03.03-19.52.55:122][ 77]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.03-19.52.56:396][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Husband/Husband_Character.Husband_Character
+[2026.03.03-19.53.02:017][816]LogSlate: Window 'Husband_Character' being destroyed
+[2026.03.03-19.53.11:930][993]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-19.53.11:930][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-19.53.24:124][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.03.03-19.53.25:359][527]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.03-19.53.25:410][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.03-19.54.38:728][513]LogSlate: Window 'Plugins' being destroyed
+[2026.03.03-19.54.38:732][513]LogSlate: Window 'Plugins' being destroyed
+[2026.03.03-19.54.38:732][513]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2026.03.03-19.56.15:315][731]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.03.03-19.56.15:318][731]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2026.03.03-19.56.37:956][731]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.03-19.56.37:962][731]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.03-19.56.37:970][731]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.03-19.57.14:417][105]LogContentBrowser: Attempting asset rename: NewBlueprint -> Husband_Blueprint
+[2026.03.03-19.57.14:458][105]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.03-19.57.18:114][536]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint
+[2026.03.03-19.57.23:579][ 99]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:558).
+[2026.03.03-19.57.24:329][180]LogSlate: Window 'Husband_Blueprint' being destroyed
+[2026.03.03-19.58.43:874][744]LogRenderer: Reallocating scene render targets to support 1208x940 Format 10 NumSamples 1 (Frame:6611).
+[2026.03.03-20.03.10:315][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.03-20.03.10:337][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.03.03-20.03.10:345][467]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player134B1C2343621479D1946884B0BC8C61.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap'
+[2026.03.03-20.03.10:359][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player_BuiltData" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset" SILENT=true
+[2026.03.03-20.03.10:363][467]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player_BuiltDataF743320E43DA0A906BC75CB71CD0F129.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset'
+[2026.03.03-20.03.10:373][467]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.03-20.03.10:373][467]LogContentValidation: Display: Validating World /Game/Maps/Drone_Camera_Player.Drone_Camera_Player
+[2026.03.03-20.03.10:373][467]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Drone_Camera_Player_BuiltData.Drone_Camera_Player_BuiltData
+[2026.03.03-20.03.12:104][667]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.03.12:155][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.03.03-20.03.13:455][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Blueprint" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset" SILENT=true
+[2026.03.03-20.03.13:462][811]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Blueprint4FFA9AB94FC722B3B3C670A179B51036.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset'
+[2026.03.03-20.03.13:475][811]AssetCheck: New page: Asset Save: Husband_Blueprint
+[2026.03.03-20.03.13:475][811]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint
+[2026.03.03-20.03.17:282][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.03.03-20.03.17:362][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.03-20.03.17:381][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.03-20.03.17:394][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.03-20.03.29:138][603]LogSlate: Window 'Source Control Login' being destroyed
+[2026.03.03-20.04.26:858][263]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2026.03.03-20.04.42:181][886]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.03-20.04.42:201][886]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.03.03-20.07.14:801][698]LogSlate: Window 'Project Settings' being destroyed
+[2026.03.03-20.13.13:773][263]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.13.13:886][263]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2026.03.03-20.13.15:950][482]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.03-20.14.03:637][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2026.03.03-20.14.03:638][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Drone_Camera_Player' took 0.029
+[2026.03.03-20.14.03:639][236]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Husband/Husband_Blueprint] ([2] browsable assets)...
+[2026.03.03-20.14.03:653][236]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint]
+[2026.03.03-20.14.03:653][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Husband/Husband_Blueprint]
+[2026.03.03-20.14.03:661][236]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Blueprint_Auto1ECC913994AD49C1DF9854490B2C9737F.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Autosaves/Game/Husband/Husband_Blueprint_Auto1.uasset'
+[2026.03.03-20.14.03:661][236]LogFileHelpers: Auto-saving content packages took 0.023
+[2026.03.03-20.14.30:994][937]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.14.31:036][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2026.03.03-20.21.48:395][120]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.21.48:430][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2026.03.03-20.24.21:568][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2026.03.03-20.24.21:570][471]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Drone_Camera_Player' took 0.023
+[2026.03.03-20.24.21:570][471]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Husband/Husband_Blueprint] ([2] browsable assets)...
+[2026.03.03-20.24.21:583][471]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint]
+[2026.03.03-20.24.21:583][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Husband/Husband_Blueprint]
+[2026.03.03-20.24.21:607][471]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Blueprint_Auto2B772CEFC44B26D625CE283A4DFD2D9A4.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Autosaves/Game/Husband/Husband_Blueprint_Auto2.uasset'
+[2026.03.03-20.24.21:607][471]LogFileHelpers: Auto-saving content packages took 0.038
+[2026.03.03-20.25.20:435][385]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.25.20:470][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2026.03.03-20.26.17:214][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.03-20.26.17:235][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2026.03.03-20.26.17:243][352]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player3FBB680E48C341FD3CB98592BC74D418.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap'
+[2026.03.03-20.26.17:249][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player_BuiltData" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset" SILENT=true
+[2026.03.03-20.26.17:252][352]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player_BuiltData8038E6A847AC9C5909B8558C94D81F40.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset'
+[2026.03.03-20.26.17:266][352]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.03-20.26.17:266][352]LogContentValidation: Display: Validating World /Game/Maps/Drone_Camera_Player.Drone_Camera_Player
+[2026.03.03-20.26.17:266][352]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Drone_Camera_Player_BuiltData.Drone_Camera_Player_BuiltData
+[2026.03.03-20.26.19:083][552]MapCheck: New page: Map Check
+[2026.03.03-20.26.19:099][552]Cmd: MAP REBUILD ALLVISIBLE
+[2026.03.03-20.26.19:099][552]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2026.03.03-20.26.19:099][552]LogWorld: UWorld::CleanupWorld for Drone_Camera_Player, bSessionEnded=true, bCleanupResources=false
+[2026.03.03-20.26.19:105][552]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2026.03.03-20.26.19:105][552]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2026.03.03-20.26.19:105][552]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2026.03.03-20.26.19:127][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.03.03-20.26.19:136][552]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2026.03.03-20.26.19:139][552]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2026.03.03-20.26.19:157][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.03-20.26.19:159][552]LightingResults: New page: Lighting Build - Mar 3, 2026, 8:26:19 AM
+[2026.03.03-20.26.19:162][552]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2026.03.03-20.26.19:168][552]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2026.03.03-20.26.19:168][552]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2026.03.03-20.26.19:168][552]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2026.03.03-20.26.19:168][552]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13728
+[2026.03.03-20.26.25:589][552]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2026.03.03-20.26.25:590][552]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2026.03.03-20.26.25:590][552]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2026.03.03-20.26.25:590][552]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2026.03.03-20.26.25:590][552]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2026.03.03-20.26.25:590][552]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2026.03.03-20.26.25:678][552]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2026.03.03-20.26.25:678][552]MapCheck: New page: Drone_Camera_Player - Mar 3, 2026, 8:26:25 AM
+[2026.03.03-20.26.25:678][552]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.288ms to complete.
+[2026.03.03-20.26.25:681][552]LogEditorBuildUtils: Build time 0:06
+[2026.03.03-20.26.25:693][552]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.03-20.26.25:693][552]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2026.03.03-20.26.25:693][552]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 6 distinct outputs (50.00%)
+[2026.03.03-20.26.25:693][552]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 2457.60 MB (2.40 GB) budget. Usage: 0.00%
+[2026.03.03-20.26.25:693][552]LogShaderCompilers: Display: ================================================
+[2026.03.03-20.26.25:783][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.03-20.26.26:512][582]Job is a success!
+[2026.03.03-20.26.26:672][584]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2026.03.03-20.26.26:672][584]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2026.03.03-20.26.26:672][584]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2026.03.03-20.26.26:672][584]LogVolumetricLightmapImport:      Bricks at depth
+[2026.03.03-20.26.26:672][584]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2026.03.03-20.26.26:672][584]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2026.03.03-20.26.26:672][584]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2026.03.03-20.26.26:672][584]LogVolumetricLightmapImport:      Bricks in each level
+[2026.03.03-20.26.26:672][584]LogVolumetricLightmapImport:          Drone_Camera_Player 			 3 bricks 	 100.0% (Persistent Level)
+[2026.03.03-20.26.26:688][584]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2026.03.03-20.26.26:688][584]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2026.03.03-20.26.26:688][584]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2026.03.03-20.26.26:688][584]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2026.03.03-20.26.26:688][584]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2026.03.03-20.26.26:688][584]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2026.03.03-20.26.26:689][584]LogStaticLightingSystem: Drone_Camera_Player_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2026.03.03-20.26.26:711][584]Lightmass on MAIN: 604 ms total, 65 ms importing, 6 ms setup, 45 ms photons, 431 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 4.68 sec total, 81 ms processing.
+[2026.03.03-20.26.26:714][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.03.03-20.26.26:781][584]LogStaticLightingSystem: Illumination: 7.54 sec (3 ms encoding lightmaps, 4 ms encoding shadowmaps)
+[2026.03.03-20.26.26:781][584]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2026.03.03-20.26.26:781][584]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2026.03.03-20.26.27:591][584]DumpUnbuiltLightIteractions
+[2026.03.03-20.26.27:591][584]Lights with unbuilt interactions: 0
+[2026.03.03-20.26.27:591][584]
+[2026.03.03-20.26.27:591][584]Primitives with unbuilt interactions: 0
+[2026.03.03-20.26.27:657][585]Cmd: MAP CHECK NOTIFYRESULTS
+[2026.03.03-20.26.27:657][585]MapCheck: New page: Drone_Camera_Player - Mar 3, 2026, 8:26:27 AM
+[2026.03.03-20.26.27:657][585]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.274ms to complete.
+[2026.03.03-20.26.39:112][944]LogTemp: Repeating last play command: Selected Viewport
+[2026.03.03-20.26.39:182][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-20.26.39:182][944]PIE: New page: PIE session: Drone_Camera_Player (Mar 3, 2026, 8:26:39 AM)
+[2026.03.03-20.26.39:204][944]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2026.03.03-20.26.39:216][944]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2026.03.03-20.26.39:243][944]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.26.39:286][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043431s)
+[2026.03.03-20.26.39:295][944]LogAIModule: Creating AISystem for world Drone_Camera_Player
+[2026.03.03-20.26.39:322][944]LogPlayLevel: PIE: World Init took: (0.035386s)
+[2026.03.03-20.26.39:322][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Drone_Camera_Player.Drone_Camera_Player to /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player (0.079387s)
+[2026.03.03-20.26.39:342][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.03.03-20.26.39:349][944]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.03.03-20.26.39:349][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-20.26.39:349][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-20.26.39:349][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-20.26.39:349][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-20.26.39:349][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.03-20.26.39:349][944]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-20.26.39:349][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.03-20.26.39:349][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-20.26.39:349][944]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-20.26.39:349][944]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-20.26.39:349][944]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-20.26.39:349][944]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.03-20.26.39:357][944]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.03-20.26.39:357][944]LogAudioMixer: Display: 1: FrontRight
+[2026.03.03-20.26.39:372][944]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.03-20.26.39:372][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-20.26.39:372][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-20.26.39:372][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-20.26.39:374][944]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.03-20.26.39:374][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.03-20.26.39:374][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.03-20.26.39:376][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.03-20.26.39:376][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.03-20.26.39:376][944]LogInit: FAudioDevice initialized.
+[2026.03.03-20.26.39:376][944]LogAudio: Display: Audio Device (ID: 2) registered with world 'Drone_Camera_Player'.
+[2026.03.03-20.26.39:392][944]LogLoad: Game class is 'GameModeBase'
+[2026.03.03-20.26.39:541][944]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player up for play (max tick rate 0) at 2026.03.03-14.26.39
+[2026.03.03-20.26.39:566][944]LogWorld: Bringing up level for play took: 0.026773
+[2026.03.03-20.26.39:568][944]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2026.03.03-20.26.39:696][944]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2026.03.03-20.26.39:791][944]PIE: Server logged in
+[2026.03.03-20.26.39:794][944]PIE: Play in editor total start time 0.658 seconds.
+[2026.03.03-20.26.45:889][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.26.45:889][622]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.26.45:889][622]LogWorld: UWorld::CleanupWorld for Drone_Camera_Player, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-20.26.45:889][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.26.45:894][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-20.26.45:932][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.26.45:952][622]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-20.26.45:954][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.26.45:955][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.26.45:957][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.26.46:014][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2026.03.03-20.26.46:057][623]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.03.03-20.27.06:764][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.03-20.27.06:815][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2026.03.03-20.27.06:821][ 59]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player9744F3544F976165321E39A0A8A41D23.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap'
+[2026.03.03-20.27.06:825][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player_BuiltData" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset" SILENT=true
+[2026.03.03-20.27.06:830][ 59]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player_BuiltDataDBBAC80849086F33E53BB69A707BFDDE.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset'
+[2026.03.03-20.27.06:843][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.03-20.27.06:843][ 59]LogContentValidation: Display: Validating World /Game/Maps/Drone_Camera_Player.Drone_Camera_Player
+[2026.03.03-20.27.06:843][ 59]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Drone_Camera_Player_BuiltData.Drone_Camera_Player_BuiltData
+[2026.03.03-20.27.07:827][166]LogTemp: Repeating last play command: Selected Viewport
+[2026.03.03-20.27.07:831][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-20.27.07:831][166]PIE: New page: PIE session: Drone_Camera_Player (Mar 3, 2026, 8:27:07 AM)
+[2026.03.03-20.27.07:879][166]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.27.07:880][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001599s)
+[2026.03.03-20.27.07:881][166]LogAIModule: Creating AISystem for world Drone_Camera_Player
+[2026.03.03-20.27.07:881][166]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2026.03.03-20.27.07:881][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Drone_Camera_Player.Drone_Camera_Player to /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player (0.002602s)
+[2026.03.03-20.27.07:900][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.03.03-20.27.07:903][166]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.03.03-20.27.07:903][166]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-20.27.07:903][166]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-20.27.07:903][166]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-20.27.07:903][166]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-20.27.07:903][166]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.03-20.27.07:903][166]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-20.27.07:903][166]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.03-20.27.07:903][166]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-20.27.07:903][166]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-20.27.07:903][166]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-20.27.07:903][166]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-20.27.07:903][166]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.03-20.27.07:909][166]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.03-20.27.07:909][166]LogAudioMixer: Display: 1: FrontRight
+[2026.03.03-20.27.07:922][166]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.03-20.27.07:922][166]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-20.27.07:922][166]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-20.27.07:922][166]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-20.27.07:923][166]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.03-20.27.07:923][166]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.03-20.27.07:923][166]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.03-20.27.07:925][166]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.03-20.27.07:925][166]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.03-20.27.07:925][166]LogInit: FAudioDevice initialized.
+[2026.03.03-20.27.07:925][166]LogAudio: Display: Audio Device (ID: 3) registered with world 'Drone_Camera_Player'.
+[2026.03.03-20.27.07:934][166]LogLoad: Game class is 'GameModeBase'
+[2026.03.03-20.27.07:934][166]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player up for play (max tick rate 0) at 2026.03.03-14.27.07
+[2026.03.03-20.27.07:935][166]LogWorld: Bringing up level for play took: 0.000469
+[2026.03.03-20.27.07:935][166]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2026.03.03-20.27.07:953][166]PIE: Server logged in
+[2026.03.03-20.27.07:954][166]PIE: Play in editor total start time 0.124 seconds.
+[2026.03.03-20.27.16:011][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.27.16:011][126]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.27.16:011][126]LogWorld: UWorld::CleanupWorld for Drone_Camera_Player, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-20.27.16:011][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.27.16:016][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-20.27.16:028][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.27.16:046][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.27.16:046][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.27.16:047][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.27.16:053][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2026.03.03-20.27.16:080][127]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.03.03-20.27.31:510][922]LogTemp: Repeating last play command: Selected Viewport
+[2026.03.03-20.27.31:514][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-20.27.31:514][922]PIE: New page: PIE session: Drone_Camera_Player (Mar 3, 2026, 8:27:31 AM)
+[2026.03.03-20.27.31:559][922]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.27.31:560][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001823s)
+[2026.03.03-20.27.31:562][922]LogAIModule: Creating AISystem for world Drone_Camera_Player
+[2026.03.03-20.27.31:562][922]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2026.03.03-20.27.31:562][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Drone_Camera_Player.Drone_Camera_Player to /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player (0.002857s)
+[2026.03.03-20.27.31:583][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.03.03-20.27.31:587][922]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.03.03-20.27.31:589][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-20.27.31:589][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-20.27.31:589][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-20.27.31:589][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-20.27.31:589][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.03-20.27.31:589][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-20.27.31:589][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.03-20.27.31:589][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-20.27.31:589][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-20.27.31:589][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-20.27.31:589][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-20.27.31:589][922]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.03-20.27.31:597][922]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.03-20.27.31:597][922]LogAudioMixer: Display: 1: FrontRight
+[2026.03.03-20.27.31:610][922]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.03-20.27.31:611][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-20.27.31:611][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-20.27.31:611][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-20.27.31:611][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.03-20.27.31:611][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.03-20.27.31:611][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.03-20.27.31:612][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.03-20.27.31:612][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.03-20.27.31:612][922]LogInit: FAudioDevice initialized.
+[2026.03.03-20.27.31:612][922]LogAudio: Display: Audio Device (ID: 4) registered with world 'Drone_Camera_Player'.
+[2026.03.03-20.27.31:622][922]LogLoad: Game class is 'GameModeBase'
+[2026.03.03-20.27.31:623][922]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player up for play (max tick rate 0) at 2026.03.03-14.27.31
+[2026.03.03-20.27.31:668][922]LogWorld: Bringing up level for play took: 0.046855
+[2026.03.03-20.27.31:669][922]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2026.03.03-20.27.31:687][922]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2026.03.03-20.27.31:687][922]LogTemp: Warning: No animation class defined on 'Husband Animation', cannot create instance.
+[2026.03.03-20.27.31:688][922]PIE: Server logged in
+[2026.03.03-20.27.31:689][922]PIE: Play in editor total start time 0.176 seconds.
+[2026.03.03-20.27.36:500][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.27.36:500][487]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.27.36:500][487]LogWorld: UWorld::CleanupWorld for Drone_Camera_Player, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-20.27.36:502][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.27.36:512][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-20.27.36:523][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.27.36:540][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-20.27.36:540][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.27.36:542][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.27.36:544][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.27.36:547][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.03.03-20.27.36:571][488]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2026.03.03-20.30.46:233][675]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.30.46:269][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2026.03.03-20.33.05:572][499]LogSlate: Took 0.025579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.03.03-20.35.38:116][955]LogEditorTransaction: Undo Split Struct Pin
+[2026.03.03-20.38.24:770][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2026.03.03-20.38.24:778][567]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player_Auto3A606146C48886C681CDFF8AF80993E26.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Autosaves/Game/Maps/Drone_Camera_Player_Auto3.umap'
+[2026.03.03-20.38.24:778][567]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Drone_Camera_Player' took 0.034
+[2026.03.03-20.38.24:778][567]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2026.03.03-20.38.24:779][567]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Husband/Husband_Blueprint] ([2] browsable assets)...
+[2026.03.03-20.38.24:786][567]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint]
+[2026.03.03-20.38.24:786][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Husband/Husband_Blueprint]
+[2026.03.03-20.38.24:821][567]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Blueprint_Auto3CE76A65647008AA3C764BEA9D3B74B89.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Autosaves/Game/Husband/Husband_Blueprint_Auto3.uasset'
+[2026.03.03-20.38.24:821][567]LogFileHelpers: Auto-saving content packages took 0.043
+[2026.03.03-20.42.04:455][923]LogEditorTransaction: Undo Move Node
+[2026.03.03-20.42.05:337][980]LogEditorTransaction: Undo Create Reroute Node
+[2026.03.03-20.42.26:601][493]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.42.26:640][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2026.03.03-20.42.31:995][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Blueprint" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset" SILENT=true
+[2026.03.03-20.42.32:017][ 99]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Blueprint07DA214247F471EC821C98A02A0DD1F5.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset'
+[2026.03.03-20.42.32:033][ 99]AssetCheck: New page: Asset Save: Husband_Blueprint
+[2026.03.03-20.42.32:033][ 99]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint
+[2026.03.03-20.43.32:527][742]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.43.32:565][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2026.03.03-20.43.33:183][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Blueprint" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset" SILENT=true
+[2026.03.03-20.43.33:195][809]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Blueprint7D77278040638235E02E42AF36302938.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset'
+[2026.03.03-20.43.33:208][809]AssetCheck: New page: Asset Save: Husband_Blueprint
+[2026.03.03-20.43.33:208][809]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint
+[2026.03.03-20.43.42:952][963]LogTemp: Repeating last play command: Selected Viewport
+[2026.03.03-20.43.42:958][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-20.43.42:958][963]PIE: New page: PIE session: Drone_Camera_Player (Mar 3, 2026, 8:43:42 AM)
+[2026.03.03-20.43.42:983][963]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.43.42:985][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002195s)
+[2026.03.03-20.43.42:986][963]LogAIModule: Creating AISystem for world Drone_Camera_Player
+[2026.03.03-20.43.42:986][963]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2026.03.03-20.43.42:986][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Drone_Camera_Player.Drone_Camera_Player to /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player (0.003385s)
+[2026.03.03-20.43.43:009][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2026.03.03-20.43.43:012][963]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.03.03-20.43.43:013][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-20.43.43:013][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-20.43.43:013][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-20.43.43:013][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-20.43.43:013][963]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.03-20.43.43:013][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-20.43.43:013][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.03-20.43.43:013][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-20.43.43:013][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-20.43.43:013][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-20.43.43:013][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-20.43.43:013][963]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.03-20.43.43:021][963]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.03-20.43.43:021][963]LogAudioMixer: Display: 1: FrontRight
+[2026.03.03-20.43.43:037][963]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.03-20.43.43:037][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-20.43.43:037][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-20.43.43:037][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-20.43.43:038][963]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.03-20.43.43:038][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.03-20.43.43:038][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.03-20.43.43:039][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.03-20.43.43:039][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.03-20.43.43:039][963]LogInit: FAudioDevice initialized.
+[2026.03.03-20.43.43:039][963]LogAudio: Display: Audio Device (ID: 5) registered with world 'Drone_Camera_Player'.
+[2026.03.03-20.43.43:045][963]LogLoad: Game class is 'GameModeBase'
+[2026.03.03-20.43.43:047][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player up for play (max tick rate 0) at 2026.03.03-14.43.43
+[2026.03.03-20.43.43:047][963]LogWorld: Bringing up level for play took: 0.000479
+[2026.03.03-20.43.43:047][963]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2026.03.03-20.43.43:049][963]PIE: Server logged in
+[2026.03.03-20.43.43:050][963]PIE: Play in editor total start time 0.094 seconds.
+[2026.03.03-20.43.48:674][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.43.48:675][632]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.43.48:675][632]LogWorld: UWorld::CleanupWorld for Drone_Camera_Player, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-20.43.48:675][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.43.48:682][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-20.43.48:694][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.43.48:713][632]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-20.43.48:713][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.43.48:714][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.43.48:716][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.43.48:719][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.03.03-20.43.48:770][634]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.03.03-20.44.06:786][724]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2026.03.03-20.46.18:740][243]LogEditorTransaction: Undo Delete current selection
+[2026.03.03-20.46.19:295][262]LogEditorTransaction: Undo Move Node
+[2026.03.03-20.46.19:589][292]LogEditorTransaction: Undo Add Node
+[2026.03.03-20.46.19:814][315]LogEditorTransaction: Undo Delete current selection
+[2026.03.03-20.46.20:179][354]LogEditorTransaction: Undo Create Pin Link
+[2026.03.03-20.46.20:531][391]LogEditorTransaction: Undo Move Node
+[2026.03.03-20.46.20:939][435]LogEditorTransaction: Undo Create Pin Link
+[2026.03.03-20.46.21:386][484]LogEditorTransaction: Undo Create Pin Link
+[2026.03.03-20.46.21:794][529]LogEditorTransaction: Undo Add Node
+[2026.03.03-20.46.22:232][576]LogEditorTransaction: Undo Rename Variable
+[2026.03.03-20.46.22:665][623]LogEditorTransaction: Undo Remove Variable
+[2026.03.03-20.46.23:104][671]LogEditorTransaction: Undo Delete current selection
+[2026.03.03-20.46.23:759][745]LogEditorTransaction: Undo Move Node
+[2026.03.03-20.46.24:175][789]LogEditorTransaction: Undo Promote To Variable
+[2026.03.03-20.46.24:639][841]LogEditorTransaction: Undo Create Pin Link
+[2026.03.03-20.46.25:097][892]LogEditorTransaction: Undo Delete current selection
+[2026.03.03-20.46.57:868][735]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.46.57:907][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2026.03.03-20.48.44:124][920]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.48.44:161][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2026.03.03-20.49.12:210][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2026.03.03-20.49.12:211][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Drone_Camera_Player' took 0.023
+[2026.03.03-20.49.12:211][713]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Husband/Husband_Blueprint] ([4] browsable assets)...
+[2026.03.03-20.49.12:217][713]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint]
+[2026.03.03-20.49.12:225][713]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint]
+[2026.03.03-20.49.12:225][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/Husband/Husband_Blueprint]
+[2026.03.03-20.49.12:238][713]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Blueprint_Auto42167F7EA41C1A68E685E05B9D3D9DD4A.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Autosaves/Game/Husband/Husband_Blueprint_Auto4.uasset'
+[2026.03.03-20.49.12:238][713]LogFileHelpers: Auto-saving content packages took 0.027
+[2026.03.03-20.51.52:265][605]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.51.52:300][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2026.03.03-20.51.52:947][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Blueprint" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset" SILENT=true
+[2026.03.03-20.51.52:959][673]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_BlueprintEFE8961243058161536B14811CC734C5.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset'
+[2026.03.03-20.51.52:972][673]AssetCheck: New page: Asset Save: Husband_Blueprint
+[2026.03.03-20.51.52:972][673]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint
+[2026.03.03-20.52.00:601][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Blueprint" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset" SILENT=true
+[2026.03.03-20.52.00:610][562]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_BlueprintD6B864D446002F6C2F776B8ADA99FA74.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset'
+[2026.03.03-20.52.00:624][562]AssetCheck: New page: Asset Save: Husband_Blueprint
+[2026.03.03-20.52.00:624][562]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint
+[2026.03.03-20.52.03:115][843]LogTemp: Repeating last play command: Selected Viewport
+[2026.03.03-20.52.03:119][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-20.52.03:119][843]PIE: New page: PIE session: Drone_Camera_Player (Mar 3, 2026, 8:52:03 AM)
+[2026.03.03-20.52.03:150][843]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.52.03:151][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001630s)
+[2026.03.03-20.52.03:152][843]LogAIModule: Creating AISystem for world Drone_Camera_Player
+[2026.03.03-20.52.03:152][843]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2026.03.03-20.52.03:152][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Drone_Camera_Player.Drone_Camera_Player to /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player (0.002762s)
+[2026.03.03-20.52.03:173][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2026.03.03-20.52.03:174][843]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.03.03-20.52.03:174][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-20.52.03:174][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-20.52.03:174][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-20.52.03:174][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-20.52.03:174][843]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.03-20.52.03:174][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-20.52.03:174][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.03-20.52.03:174][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-20.52.03:175][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-20.52.03:175][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-20.52.03:175][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-20.52.03:175][843]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.03-20.52.03:182][843]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.03-20.52.03:182][843]LogAudioMixer: Display: 1: FrontRight
+[2026.03.03-20.52.03:195][843]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.03-20.52.03:196][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-20.52.03:196][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-20.52.03:196][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-20.52.03:196][843]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.03-20.52.03:196][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.03-20.52.03:196][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.03-20.52.03:197][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.03-20.52.03:197][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.03-20.52.03:197][843]LogInit: FAudioDevice initialized.
+[2026.03.03-20.52.03:197][843]LogAudio: Display: Audio Device (ID: 6) registered with world 'Drone_Camera_Player'.
+[2026.03.03-20.52.03:201][843]LogLoad: Game class is 'GameModeBase'
+[2026.03.03-20.52.03:203][843]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player up for play (max tick rate 0) at 2026.03.03-14.52.03
+[2026.03.03-20.52.03:203][843]LogWorld: Bringing up level for play took: 0.000418
+[2026.03.03-20.52.03:203][843]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2026.03.03-20.52.03:204][843]PIE: Server logged in
+[2026.03.03-20.52.03:205][843]PIE: Play in editor total start time 0.086 seconds.
+[2026.03.03-20.52.06:247][205]Set new viewmode: Wireframe
+[2026.03.03-20.52.07:356][338]Set new viewmode: Wireframe
+[2026.03.03-20.52.08:313][453]Set new viewmode: Wireframe
+[2026.03.03-20.52.08:555][482]Set new viewmode: Unlit
+[2026.03.03-20.52.09:911][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.52.09:911][640]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.52.09:911][640]LogWorld: UWorld::CleanupWorld for Drone_Camera_Player, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-20.52.09:911][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.52.09:921][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-20.52.09:933][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.52.09:951][640]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-20.52.09:951][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.52.09:951][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.52.09:954][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.52.09:957][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.03.03-20.52.09:982][641]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.03.03-20.53.08:020][446]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.53.08:059][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2026.03.03-20.53.08:665][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Blueprint" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset" SILENT=true
+[2026.03.03-20.53.08:678][510]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Blueprint776424D644FB102B49D7258D691F87AE.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset'
+[2026.03.03-20.53.08:690][510]AssetCheck: New page: Asset Save: Husband_Blueprint
+[2026.03.03-20.53.08:690][510]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint
+[2026.03.03-20.53.12:504][917]LogTemp: Repeating last play command: Selected Viewport
+[2026.03.03-20.53.12:508][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-20.53.12:508][917]PIE: New page: PIE session: Drone_Camera_Player (Mar 3, 2026, 8:53:12 AM)
+[2026.03.03-20.53.12:550][917]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.53.12:553][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001873s)
+[2026.03.03-20.53.12:554][917]LogAIModule: Creating AISystem for world Drone_Camera_Player
+[2026.03.03-20.53.12:554][917]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2026.03.03-20.53.12:554][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Drone_Camera_Player.Drone_Camera_Player to /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player (0.002873s)
+[2026.03.03-20.53.12:575][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.03.03-20.53.12:577][917]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.03.03-20.53.12:577][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-20.53.12:577][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-20.53.12:577][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-20.53.12:577][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-20.53.12:577][917]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.03-20.53.12:577][917]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-20.53.12:577][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.03-20.53.12:577][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-20.53.12:577][917]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-20.53.12:577][917]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-20.53.12:577][917]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-20.53.12:577][917]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.03-20.53.12:583][917]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.03-20.53.12:583][917]LogAudioMixer: Display: 1: FrontRight
+[2026.03.03-20.53.12:597][917]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.03-20.53.12:597][917]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-20.53.12:597][917]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-20.53.12:597][917]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-20.53.12:598][917]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.03-20.53.12:598][917]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.03-20.53.12:598][917]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.03-20.53.12:598][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.03-20.53.12:598][917]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.03-20.53.12:598][917]LogInit: FAudioDevice initialized.
+[2026.03.03-20.53.12:598][917]LogAudio: Display: Audio Device (ID: 7) registered with world 'Drone_Camera_Player'.
+[2026.03.03-20.53.12:610][917]LogLoad: Game class is 'GameModeBase'
+[2026.03.03-20.53.12:611][917]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player up for play (max tick rate 0) at 2026.03.03-14.53.12
+[2026.03.03-20.53.12:611][917]LogWorld: Bringing up level for play took: 0.000588
+[2026.03.03-20.53.12:611][917]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2026.03.03-20.53.12:614][917]PIE: Server logged in
+[2026.03.03-20.53.12:614][917]PIE: Play in editor total start time 0.107 seconds.
+[2026.03.03-20.53.20:323][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.53.20:323][837]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.53.20:323][837]LogWorld: UWorld::CleanupWorld for Drone_Camera_Player, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-20.53.20:323][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.53.20:330][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-20.53.20:341][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.53.20:360][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-20.53.20:361][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.53.20:362][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.53.20:364][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.53.20:367][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.03.03-20.53.20:420][839]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.03.03-20.57.38:952][219]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-20.57.38:990][219]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2026.03.03-20.57.40:128][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Blueprint" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset" SILENT=true
+[2026.03.03-20.57.40:140][339]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Blueprint6E6F8F4B4E3A04B32398AA8592640F95.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset'
+[2026.03.03-20.57.40:154][339]AssetCheck: New page: Asset Save: Husband_Blueprint
+[2026.03.03-20.57.40:154][339]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint
+[2026.03.03-20.57.50:316][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Blueprint" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset" SILENT=true
+[2026.03.03-20.57.50:325][918]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_BlueprintBEAE02CD4872E6A60247449EA8E48A64.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset'
+[2026.03.03-20.57.50:338][918]AssetCheck: New page: Asset Save: Husband_Blueprint
+[2026.03.03-20.57.50:338][918]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint
+[2026.03.03-20.57.52:679][174]LogTemp: Repeating last play command: Selected Viewport
+[2026.03.03-20.57.52:682][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-20.57.52:682][174]PIE: New page: PIE session: Drone_Camera_Player (Mar 3, 2026, 8:57:52 AM)
+[2026.03.03-20.57.52:705][174]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.57.52:707][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001796s)
+[2026.03.03-20.57.52:708][174]LogAIModule: Creating AISystem for world Drone_Camera_Player
+[2026.03.03-20.57.52:708][174]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2026.03.03-20.57.52:708][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Drone_Camera_Player.Drone_Camera_Player to /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player (0.002943s)
+[2026.03.03-20.57.52:730][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2026.03.03-20.57.52:731][174]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.03.03-20.57.52:731][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-20.57.52:731][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-20.57.52:731][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-20.57.52:731][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-20.57.52:731][174]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.03-20.57.52:731][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-20.57.52:731][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.03-20.57.52:731][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-20.57.52:732][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-20.57.52:732][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-20.57.52:732][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-20.57.52:732][174]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.03-20.57.52:739][174]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.03-20.57.52:739][174]LogAudioMixer: Display: 1: FrontRight
+[2026.03.03-20.57.52:754][174]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.03-20.57.52:754][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-20.57.52:754][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-20.57.52:754][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-20.57.52:755][174]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.03-20.57.52:755][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.03-20.57.52:755][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.03-20.57.52:756][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.03-20.57.52:756][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.03-20.57.52:756][174]LogInit: FAudioDevice initialized.
+[2026.03.03-20.57.52:756][174]LogAudio: Display: Audio Device (ID: 8) registered with world 'Drone_Camera_Player'.
+[2026.03.03-20.57.52:765][174]LogLoad: Game class is 'GameModeBase'
+[2026.03.03-20.57.52:765][174]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player up for play (max tick rate 0) at 2026.03.03-14.57.52
+[2026.03.03-20.57.52:766][174]LogWorld: Bringing up level for play took: 0.000458
+[2026.03.03-20.57.52:766][174]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2026.03.03-20.57.52:768][174]PIE: Server logged in
+[2026.03.03-20.57.52:769][174]PIE: Play in editor total start time 0.086 seconds.
+[2026.03.03-20.57.57:646][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.57.57:646][755]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.57.57:646][755]LogWorld: UWorld::CleanupWorld for Drone_Camera_Player, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-20.57.57:646][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.57.57:654][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-20.57.57:667][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.57.57:686][755]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-20.57.57:686][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.57.57:687][755]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.57.57:688][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.57.57:691][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.03.03-20.57.57:744][757]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.03.03-20.58.37:330][401]MapCheck: New page: Map Check
+[2026.03.03-20.58.37:348][401]Cmd: MAP REBUILD ALLVISIBLE
+[2026.03.03-20.58.37:349][401]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2026.03.03-20.58.37:350][401]LogWorld: UWorld::CleanupWorld for Drone_Camera_Player, bSessionEnded=true, bCleanupResources=false
+[2026.03.03-20.58.37:354][401]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2026.03.03-20.58.37:355][401]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2026.03.03-20.58.37:355][401]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2026.03.03-20.58.37:379][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2026.03.03-20.58.37:385][401]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2026.03.03-20.58.37:389][401]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2026.03.03-20.58.37:407][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.03-20.58.37:409][401]LightingResults: New page: Lighting Build - Mar 3, 2026, 8:58:37 AM
+[2026.03.03-20.58.37:411][401]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2026.03.03-20.58.37:418][401]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2026.03.03-20.58.37:418][401]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2026.03.03-20.58.37:419][401]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2026.03.03-20.58.37:419][401]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13728
+[2026.03.03-20.58.42:885][401]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2026.03.03-20.58.42:885][401]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2026.03.03-20.58.42:885][401]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2026.03.03-20.58.42:885][401]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2026.03.03-20.58.42:885][401]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2026.03.03-20.58.42:885][401]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2026.03.03-20.58.42:943][401]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2026.03.03-20.58.42:943][401]MapCheck: New page: Drone_Camera_Player - Mar 3, 2026, 8:58:42 AM
+[2026.03.03-20.58.42:943][401]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.246ms to complete.
+[2026.03.03-20.58.42:946][401]LogEditorBuildUtils: Build time 0:05
+[2026.03.03-20.58.42:956][401]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.03-20.58.42:956][401]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2026.03.03-20.58.42:956][401]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 6 distinct outputs (50.00%)
+[2026.03.03-20.58.42:956][401]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 2457.60 MB (2.40 GB) budget. Usage: 0.00%
+[2026.03.03-20.58.42:956][401]LogShaderCompilers: Display: ================================================
+[2026.03.03-20.58.43:035][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.03.03-20.58.43:746][430]Job is a success!
+[2026.03.03-20.58.43:923][432]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2026.03.03-20.58.43:923][432]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2026.03.03-20.58.43:923][432]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2026.03.03-20.58.43:923][432]LogVolumetricLightmapImport:      Bricks at depth
+[2026.03.03-20.58.43:923][432]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2026.03.03-20.58.43:923][432]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2026.03.03-20.58.43:923][432]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2026.03.03-20.58.43:923][432]LogVolumetricLightmapImport:      Bricks in each level
+[2026.03.03-20.58.43:923][432]LogVolumetricLightmapImport:          Drone_Camera_Player 			 3 bricks 	 100.0% (Persistent Level)
+[2026.03.03-20.58.43:937][432]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 256X256)
+[2026.03.03-20.58.43:937][432]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 256X256)
+[2026.03.03-20.58.43:937][432]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2026.03.03-20.58.43:937][432]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2026.03.03-20.58.43:937][432]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2026.03.03-20.58.43:937][432]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2026.03.03-20.58.43:937][432]LogStaticLightingSystem: Drone_Camera_Player_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2026.03.03-20.58.43:964][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.03.03-20.58.43:991][432]Lightmass on MAIN: 624 ms total, 64 ms importing, 5 ms setup, 45 ms photons, 441 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 4.80 sec total, 76 ms processing.
+[2026.03.03-20.58.44:031][432]LogStaticLightingSystem: Illumination: 6.53 sec (3 ms encoding lightmaps, 4 ms encoding shadowmaps)
+[2026.03.03-20.58.44:031][432]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2026.03.03-20.58.44:031][432]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2026.03.03-20.58.44:884][432]DumpUnbuiltLightIteractions
+[2026.03.03-20.58.44:884][432]Lights with unbuilt interactions: 0
+[2026.03.03-20.58.44:884][432]
+[2026.03.03-20.58.44:884][432]Primitives with unbuilt interactions: 0
+[2026.03.03-20.58.44:944][433]Cmd: MAP CHECK NOTIFYRESULTS
+[2026.03.03-20.58.44:944][433]MapCheck: New page: Drone_Camera_Player - Mar 3, 2026, 8:58:44 AM
+[2026.03.03-20.58.44:945][433]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.48ms to complete.
+[2026.03.03-20.58.50:435][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2026.03.03-20.58.50:440][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-20.58.50:441][ 81]PIE: New page: PIE session: Drone_Camera_Player (Mar 3, 2026, 8:58:50 AM)
+[2026.03.03-20.58.50:476][ 81]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.58.50:477][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001714s)
+[2026.03.03-20.58.50:478][ 81]LogAIModule: Creating AISystem for world Drone_Camera_Player
+[2026.03.03-20.58.50:478][ 81]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2026.03.03-20.58.50:479][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Drone_Camera_Player.Drone_Camera_Player to /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player (0.002904s)
+[2026.03.03-20.58.50:502][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2026.03.03-20.58.50:505][ 81]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.03.03-20.58.50:505][ 81]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-20.58.50:505][ 81]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-20.58.50:505][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-20.58.50:505][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-20.58.50:505][ 81]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.03-20.58.50:505][ 81]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-20.58.50:505][ 81]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.03-20.58.50:505][ 81]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-20.58.50:505][ 81]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-20.58.50:505][ 81]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-20.58.50:505][ 81]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-20.58.50:505][ 81]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.03-20.58.50:513][ 81]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.03-20.58.50:513][ 81]LogAudioMixer: Display: 1: FrontRight
+[2026.03.03-20.58.50:527][ 81]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.03-20.58.50:527][ 81]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-20.58.50:527][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-20.58.50:527][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-20.58.50:527][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.03-20.58.50:527][ 81]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.03-20.58.50:527][ 81]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.03-20.58.50:529][ 81]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.03-20.58.50:529][ 81]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.03-20.58.50:529][ 81]LogInit: FAudioDevice initialized.
+[2026.03.03-20.58.50:529][ 81]LogAudio: Display: Audio Device (ID: 9) registered with world 'Drone_Camera_Player'.
+[2026.03.03-20.58.50:541][ 81]LogLoad: Game class is 'GameModeBase'
+[2026.03.03-20.58.50:542][ 81]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player up for play (max tick rate 0) at 2026.03.03-14.58.50
+[2026.03.03-20.58.50:542][ 81]LogWorld: Bringing up level for play took: 0.000621
+[2026.03.03-20.58.50:542][ 81]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2026.03.03-20.58.50:545][ 81]PIE: Server logged in
+[2026.03.03-20.58.50:546][ 81]PIE: Play in editor total start time 0.107 seconds.
+[2026.03.03-20.58.54:177][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.58.54:177][510]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-20.58.54:177][510]LogWorld: UWorld::CleanupWorld for Drone_Camera_Player, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-20.58.54:177][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.58.54:186][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-20.58.54:198][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-20.58.54:215][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-20.58.54:215][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.58.54:216][510]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-20.58.54:223][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2026.03.03-20.58.54:247][511]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.03.03-20.59.36:944][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.03.03-20.59.36:953][ 71]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player_Auto5847F8E534FCDE72E0FF8AFB0038DF0B8.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Autosaves/Game/Maps/Drone_Camera_Player_Auto5.umap'
+[2026.03.03-20.59.36:953][ 71]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Drone_Camera_Player' took 0.038
+[2026.03.03-20.59.36:954][ 71]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2026.03.03-21.00.47:180][371]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.03.03-21.00.47:182][371]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2026.03.03-21.00.55:078][371]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.03-21.00.55:085][371]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.03-21.00.55:095][371]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.03-21.01.01:655][159]LogContentBrowser: Attempting asset rename: NewBlueprint -> Game_Mode
+[2026.03.03-21.01.01:659][159]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.03-21.01.03:347][356]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game_Mode.Game_Mode
+[2026.03.03-21.01.51:042][457]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.03-21.01.51:061][457]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.03.03-21.03.02:604][378]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.03-21.03.02:616][378]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.03-21.03.09:977][261]LogContentBrowser: Attempting asset rename: NewFolder -> Husband_Movement
+[2026.03.03-21.03.09:977][261]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.03-21.03.12:514][558]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.03-21.03.12:529][558]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.03-21.03.21:129][590]LogContentBrowser: Attempting asset rename: NewFolder -> Husband_Animations
+[2026.03.03-21.03.21:129][590]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.03-21.04.06:995][240]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.03-21.04.07:000][240]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.03-21.04.07:011][240]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.03-21.04.15:125][214]LogContentBrowser: Attempting asset rename: NewBlueprint -> Mouse_interation
+[2026.03.03-21.04.15:128][214]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.03-21.04.17:029][439]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Husband/Husband_Movement/Mouse_interation.Mouse_interation
+[2026.03.03-21.04.20:186][783]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-21.04.20:186][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-21.05.01:777][654]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.03.03-21.05.01:779][654]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2026.03.03-21.07.19:674][654]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.03-21.08.02:649][706]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-21.08.02:695][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2026.03.03-21.08.03:145][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Blueprint" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset" SILENT=true
+[2026.03.03-21.08.03:155][752]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_BlueprintEE67F08447FF17687CCAD0AFD5AB7660.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset'
+[2026.03.03-21.08.03:170][752]AssetCheck: New page: Asset Save: Husband_Blueprint
+[2026.03.03-21.08.03:170][752]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint
+[2026.03.03-21.08.36:457][638]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-21.08.36:514][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2026.03.03-21.08.36:977][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Blueprint" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset" SILENT=true
+[2026.03.03-21.08.36:989][684]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Blueprint569F06474CD808842F7199B842BBDE18.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset'
+[2026.03.03-21.08.37:002][684]AssetCheck: New page: Asset Save: Husband_Blueprint
+[2026.03.03-21.08.37:002][684]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint
+[2026.03.03-21.08.44:598][564]LogTemp: Repeating last play command: Selected Viewport
+[2026.03.03-21.08.44:603][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-21.08.44:603][564]PIE: New page: PIE session: Drone_Camera_Player (Mar 3, 2026, 9:08:44 AM)
+[2026.03.03-21.08.44:634][564]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-21.08.44:635][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001579s)
+[2026.03.03-21.08.44:635][564]LogAIModule: Creating AISystem for world Drone_Camera_Player
+[2026.03.03-21.08.44:635][564]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2026.03.03-21.08.44:635][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Drone_Camera_Player.Drone_Camera_Player to /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player (0.002615s)
+[2026.03.03-21.08.44:661][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2026.03.03-21.08.44:663][564]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.03.03-21.08.44:663][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-21.08.44:663][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-21.08.44:663][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-21.08.44:663][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-21.08.44:663][564]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.03-21.08.44:663][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-21.08.44:663][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.03-21.08.44:663][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-21.08.44:663][564]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-21.08.44:663][564]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-21.08.44:665][564]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-21.08.44:665][564]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.03-21.08.44:672][564]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.03-21.08.44:672][564]LogAudioMixer: Display: 1: FrontRight
+[2026.03.03-21.08.44:688][564]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.03-21.08.44:688][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-21.08.44:688][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-21.08.44:688][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-21.08.44:690][564]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.03-21.08.44:690][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.03-21.08.44:690][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.03-21.08.44:691][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.03-21.08.44:691][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.03-21.08.44:691][564]LogInit: FAudioDevice initialized.
+[2026.03.03-21.08.44:691][564]LogAudio: Display: Audio Device (ID: 10) registered with world 'Drone_Camera_Player'.
+[2026.03.03-21.08.44:700][564]LogLoad: Game class is 'GameModeBase'
+[2026.03.03-21.08.44:701][564]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player up for play (max tick rate 0) at 2026.03.03-15.08.44
+[2026.03.03-21.08.44:701][564]LogWorld: Bringing up level for play took: 0.000509
+[2026.03.03-21.08.44:701][564]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2026.03.03-21.08.44:703][564]PIE: Server logged in
+[2026.03.03-21.08.44:704][564]PIE: Play in editor total start time 0.103 seconds.
+[2026.03.03-21.08.48:355][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-21.08.48:355][997]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-21.08.48:355][997]LogWorld: UWorld::CleanupWorld for Drone_Camera_Player, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-21.08.48:355][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-21.08.48:361][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-21.08.48:373][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-21.08.48:396][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-21.08.48:396][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-21.08.48:398][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-21.08.48:399][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-21.08.48:402][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2026.03.03-21.08.48:431][998]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.03.03-21.09.25:939][351]BlueprintLog: New page: Compile Husband_Blueprint
+[2026.03.03-21.09.25:979][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.03.03-21.09.26:810][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Blueprint" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset" SILENT=true
+[2026.03.03-21.09.26:821][443]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_BlueprintFC84662C421CE4CC1DA9529975A8F4C4.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Blueprint.uasset'
+[2026.03.03-21.09.26:836][443]AssetCheck: New page: Asset Save: Husband_Blueprint
+[2026.03.03-21.09.26:836][443]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Blueprint.Husband_Blueprint
+[2026.03.03-21.09.30:464][851]LogTemp: Repeating last play command: Selected Viewport
+[2026.03.03-21.09.30:468][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.03-21.09.30:468][851]PIE: New page: PIE session: Drone_Camera_Player (Mar 3, 2026, 9:09:30 AM)
+[2026.03.03-21.09.30:504][851]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-21.09.30:507][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002003s)
+[2026.03.03-21.09.30:507][851]LogAIModule: Creating AISystem for world Drone_Camera_Player
+[2026.03.03-21.09.30:507][851]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2026.03.03-21.09.30:508][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Drone_Camera_Player.Drone_Camera_Player to /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player (0.003097s)
+[2026.03.03-21.09.30:532][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2026.03.03-21.09.30:534][851]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.03.03-21.09.30:534][851]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.03-21.09.30:534][851]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.03-21.09.30:534][851]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.03-21.09.30:534][851]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.03-21.09.30:534][851]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.03-21.09.30:534][851]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.03-21.09.30:534][851]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.03-21.09.30:534][851]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.03-21.09.30:534][851]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.03-21.09.30:534][851]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.03-21.09.30:534][851]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.03-21.09.30:534][851]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.03-21.09.30:542][851]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.03-21.09.30:542][851]LogAudioMixer: Display: 1: FrontRight
+[2026.03.03-21.09.30:557][851]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.03-21.09.30:557][851]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.03-21.09.30:557][851]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.03-21.09.30:557][851]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.03-21.09.30:557][851]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.03-21.09.30:557][851]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.03-21.09.30:557][851]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.03-21.09.30:559][851]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.03-21.09.30:559][851]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.03-21.09.30:559][851]LogInit: FAudioDevice initialized.
+[2026.03.03-21.09.30:559][851]LogAudio: Display: Audio Device (ID: 11) registered with world 'Drone_Camera_Player'.
+[2026.03.03-21.09.30:571][851]LogLoad: Game class is 'GameModeBase'
+[2026.03.03-21.09.30:572][851]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Drone_Camera_Player.Drone_Camera_Player up for play (max tick rate 0) at 2026.03.03-15.09.30
+[2026.03.03-21.09.30:572][851]LogWorld: Bringing up level for play took: 0.000449
+[2026.03.03-21.09.30:572][851]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2026.03.03-21.09.30:574][851]PIE: Server logged in
+[2026.03.03-21.09.30:574][851]PIE: Play in editor total start time 0.107 seconds.
+[2026.03.03-21.09.34:145][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-21.09.34:145][267]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Drone_Camera_Player
+[2026.03.03-21.09.34:146][267]LogWorld: UWorld::CleanupWorld for Drone_Camera_Player, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-21.09.34:146][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-21.09.34:178][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.03-21.09.34:191][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-21.09.34:211][267]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-21.09.34:211][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-21.09.34:212][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.03-21.09.34:215][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.03-21.09.34:218][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.03.03-21.09.34:239][268]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.03.03-21.09.41:381][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2026.03.03-21.09.42:941][118]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.03-21.09.43:001][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.03.03-21.09.43:908][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.03-21.09.43:929][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.03-21.09.43:934][217]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player8B537C764676E934A0C0E89393B2FD0C.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player.umap'
+[2026.03.03-21.09.43:948][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Drone_Camera_Player_BuiltData" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset" SILENT=true
+[2026.03.03-21.09.43:951][217]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Drone_Camera_Player_BuiltData11FEB1674B7C10916B4D6E9F95572958.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Drone_Camera_Player_BuiltData.uasset'
+[2026.03.03-21.09.43:964][217]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.03-21.09.43:964][217]LogContentValidation: Display: Validating World /Game/Maps/Drone_Camera_Player.Drone_Camera_Player
+[2026.03.03-21.09.43:964][217]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Drone_Camera_Player_BuiltData.Drone_Camera_Player_BuiltData
