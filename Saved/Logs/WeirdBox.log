@@ -1864,3 +1864,856 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2026.03.16-23.46.38:643][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2026.03.16-23.46.38:647][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
 [2026.03.16-23.46.38:677][201]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.03.16-23.48.27:539][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2026.03.16-23.48.27:542][656]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/K_AI_Main_Screen' took 0.032
+[2026.03.16-23.48.27:542][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Husband/Husband_Character_BP] ([2] browsable assets)...
+[2026.03.16-23.48.27:542][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Husband/Husband_Character_BP]
+[2026.03.16-23.48.27:548][656]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Character_BP_Auto1CEF93F52465C3339BCC37B8D63D391FB.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Autosaves/Game/Husband/Husband_Character_BP_Auto1.uasset'
+[2026.03.16-23.48.27:548][656]LogFileHelpers: Auto-saving content packages took 0.006
+[2026.03.17-00.06.29:000][425]BlueprintLog: New page: Compile Husband_Character_BP
+[2026.03.17-00.06.29:037][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2026.03.17-00.06.32:038][762]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/K_AI/K_AI_Screen_Actor.K_AI_Screen_Actor
+[2026.03.17-00.06.34:884][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2026.03.17-00.06.34:884][ 50]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/K_AI_Main_Screen' took 0.027
+[2026.03.17-00.06.34:884][ 50]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Husband/Husband_Character_BP] ([2] browsable assets)...
+[2026.03.17-00.06.34:884][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/Husband/Husband_Character_BP]
+[2026.03.17-00.06.34:890][ 50]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Character_BP_Auto2CAEE95DE45E2B2E758EABA96E2184E6F.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Autosaves/Game/Husband/Husband_Character_BP_Auto2.uasset'
+[2026.03.17-00.06.34:890][ 50]LogFileHelpers: Auto-saving content packages took 0.005
+[2026.03.17-00.07.06:204][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/K_AI/K_AI_Screen_Actor" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/K_AI/K_AI_Screen_Actor.uasset" SILENT=true
+[2026.03.17-00.07.06:208][685]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/K_AI_Screen_Actor93D795F743EAF64361E9C1A0DE29FE0F.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/K_AI/K_AI_Screen_Actor.uasset'
+[2026.03.17-00.07.06:219][685]AssetCheck: New page: Asset Save: K_AI_Screen_Actor
+[2026.03.17-00.07.06:219][685]LogContentValidation: Display: Validating Blueprint /Game/K_AI/K_AI_Screen_Actor.K_AI_Screen_Actor
+[2026.03.17-00.07.51:341][ 21]BlueprintLog: New page: Compile Husband_Character_BP
+[2026.03.17-00.07.51:381][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2026.03.17-00.07.53:919][305]LogSlate: Took 0.018232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.03.17-00.08.48:201][776]BlueprintLog: New page: Compile Husband_Character_BP
+[2026.03.17-00.08.48:203][776]LogClass: Warning: Type mismatch in Camera of Husband_Character_BP_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2026.03.17-00.08.48:240][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2026.03.17-00.08.48:937][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Character_BP" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Character_BP.uasset" SILENT=true
+[2026.03.17-00.08.48:962][853]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Character_BP9AB25CAC4D54D8EB8017B6AC6FEC4ACD.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Character_BP.uasset'
+[2026.03.17-00.08.48:975][853]AssetCheck: New page: Asset Save: Husband_Character_BP
+[2026.03.17-00.08.48:975][853]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Character_BP.Husband_Character_BP
+[2026.03.17-00.08.59:797][129]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.08.59:797][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.08.59:802][129]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.08.59:802][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.09.43:418][296]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2026.03.17-00.09.43:443][296]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Angled_Camera_Test.Angled_Camera_Test
+[2026.03.17-00.09.43:443][296]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Angled_Camera_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.17-00.09.43:443][296]LightingResults: New page: Lighting Build
+[2026.03.17-00.09.43:443][296]LoadErrors: New page: Loading map: Angled_Camera_Test.umap
+[2026.03.17-00.09.43:468][296]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.09.43:468][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.09.43:468][296]MapCheck: New page: Map Check
+[2026.03.17-00.09.43:468][296]LightingResults: New page: Lighting Build
+[2026.03.17-00.09.43:489][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.09.43:493][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2026.03.17-00.09.43:493][296]LogAudio: Display: Audio Device (ID: 1) registered with world 'Angled_Camera_Test'.
+[2026.03.17-00.09.43:557][296]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.17-00.09.43:557][296]LogAIModule: Creating AISystem for world Angled_Camera_Test
+[2026.03.17-00.09.43:581][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.03.17-00.09.43:583][296]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.17-00.09.43:583][296]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.053ms to complete.
+[2026.03.17-00.09.43:583][296]LogFileHelpers: Loading map 'Angled_Camera_Test' took 0.141
+[2026.03.17-00.09.47:458][757]LogEditorViewport: Clicking on Actor (LMB): CameraActor (Camera_3)
+[2026.03.17-00.09.50:368][ 98]Cmd: DELETE
+[2026.03.17-00.09.50:368][ 98]Cmd: ACTOR DELETE
+[2026.03.17-00.09.50:461][ 98]LogEditorActor: Deleted Actor: CameraActor
+[2026.03.17-00.09.50:489][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.17-00.09.50:492][ 98]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2026.03.17-00.10.14:983][ 11]LogEditorViewport: Clicking on Actor (context menu): K_AI_Camera_C (K_AI_Camera)
+[2026.03.17-00.10.46:093][667]Cmd: TRANSACTION UNDO
+[2026.03.17-00.10.46:093][667]LogEditorTransaction: Undo Set Rotation
+[2026.03.17-00.10.48:361][891]Cmd: TRANSACTION UNDO
+[2026.03.17-00.10.48:361][891]LogEditorTransaction: Undo Set Rotation
+[2026.03.17-00.11.00:170][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Angled_Camera_Test" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Angled_Camera_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.17-00.11.00:193][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.03.17-00.11.00:215][294]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Angled_Camera_Test08C0158A48D36F3F6C5B4184FD24002F.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Angled_Camera_Test.umap'
+[2026.03.17-00.11.00:219][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Angled_Camera_Test_BuiltData" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Angled_Camera_Test_BuiltData.uasset" SILENT=true
+[2026.03.17-00.11.00:235][294]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Angled_Camera_Test_BuiltData8E7C850B4A7107CC3A7E99AB78288222.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Angled_Camera_Test_BuiltData.uasset'
+[2026.03.17-00.11.00:246][294]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.17-00.11.00:247][294]LogContentValidation: Display: Validating World /Game/Maps/Angled_Camera_Test.Angled_Camera_Test
+[2026.03.17-00.11.00:247][294]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Angled_Camera_Test_BuiltData.Angled_Camera_Test_BuiltData
+[2026.03.17-00.11.08:434][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.03.17-00.11.08:456][251]LogLinker: Warning: [AssetLog] D:\UnrealProjects\CyberKittysWeirdBox\Content\Maps\Side_Camera_Test.umap: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:456][251]LogLinker: Warning: [AssetLog] D:\UnrealProjects\CyberKittysWeirdBox\Content\Maps\Side_Camera_Test.umap: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:456][251]LogLinker: Warning: [AssetLog] D:\UnrealProjects\CyberKittysWeirdBox\Content\Maps\Side_Camera_Test.umap: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:456][251]LogLinker: Warning: [AssetLog] D:\UnrealProjects\CyberKittysWeirdBox\Content\Maps\Side_Camera_Test.umap: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:456][251]LogLinker: Warning: [AssetLog] D:\UnrealProjects\CyberKittysWeirdBox\Content\Maps\Side_Camera_Test.umap: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:456][251]LogLinker: Warning: [AssetLog] D:\UnrealProjects\CyberKittysWeirdBox\Content\Maps\Side_Camera_Test.umap: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:457][251]LogLinker: Warning: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:457][251]LogLinker: Warning: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:457][251]LogLinker: Warning: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:457][251]LogLinker: Warning: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:457][251]LogLinker: Warning: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:458][251]LogLinker: Warning: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:458][251]LogLinker: Warning: Failed to load '/Game/Cameras/Side_Camera': Can't find file.
+[2026.03.17-00.11.08:462][251]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Side_Camera_Test.Side_Camera_Test
+[2026.03.17-00.11.08:462][251]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Side_Camera_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.17-00.11.08:462][251]LightingResults: New page: Lighting Build
+[2026.03.17-00.11.08:462][251]LoadErrors: New page: Loading map: Side_Camera_Test.umap
+[2026.03.17-00.11.08:463][251]LogWorld: UWorld::CleanupWorld for Angled_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.11.08:463][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.11.08:463][251]MapCheck: New page: Map Check
+[2026.03.17-00.11.08:463][251]LightingResults: New page: Lighting Build
+[2026.03.17-00.11.08:483][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.11.08:486][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2026.03.17-00.11.08:486][251]LogAudio: Display: Audio Device (ID: 1) registered with world 'Side_Camera_Test'.
+[2026.03.17-00.11.08:549][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.17-00.11.08:549][251]LogAIModule: Creating AISystem for world Side_Camera_Test
+[2026.03.17-00.11.08:572][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.03.17-00.11.08:575][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.17-00.11.08:575][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2026.03.17-00.11.08:575][251]LogFileHelpers: Loading map 'Side_Camera_Test' took 0.114
+[2026.03.17-00.11.08:597][251]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CameraComponent': Side_Camera_C /Game/Maps/Side_Camera_Test.Side_Camera_Test:PersistentLevel.Side_Camera_2
+[2026.03.17-00.11.08:597][251]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneComponent': Side_Camera_C /Game/Maps/Side_Camera_Test.Side_Camera_Test:PersistentLevel.Side_Camera_2
+[2026.03.17-00.11.26:369][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Side_Camera_Test" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Side_Camera_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.17-00.11.26:393][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.03.17-00.11.26:403][346]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Side_Camera_Test75DF74CF457C32F49FF2AC9EA30FFD18.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Side_Camera_Test.umap'
+[2026.03.17-00.11.26:416][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Side_Camera_Test_BuiltData" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Side_Camera_Test_BuiltData.uasset" SILENT=true
+[2026.03.17-00.11.26:419][346]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Side_Camera_Test_BuiltData343D55D64BF4A96070F74A8E046FC4BA.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Side_Camera_Test_BuiltData.uasset'
+[2026.03.17-00.11.26:429][346]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.17-00.11.26:429][346]LogContentValidation: Display: Validating World /Game/Maps/Side_Camera_Test.Side_Camera_Test
+[2026.03.17-00.11.26:429][346]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Side_Camera_Test_BuiltData.Side_Camera_Test_BuiltData
+[2026.03.17-00.11.27:715][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.03.17-00.11.27:742][496]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Top_Down_Drone_test.Top_Down_Drone_test
+[2026.03.17-00.11.27:742][496]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Top_Down_Drone_test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.17-00.11.27:742][496]LightingResults: New page: Lighting Build
+[2026.03.17-00.11.27:742][496]LoadErrors: New page: Loading map: Top_Down_Drone_test.umap
+[2026.03.17-00.11.27:744][496]LogWorld: UWorld::CleanupWorld for Side_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.11.27:744][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.11.27:744][496]MapCheck: New page: Map Check
+[2026.03.17-00.11.27:744][496]LightingResults: New page: Lighting Build
+[2026.03.17-00.11.27:764][496]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.11.27:767][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.03.17-00.11.27:767][496]LogAudio: Display: Audio Device (ID: 1) registered with world 'Top_Down_Drone_test'.
+[2026.03.17-00.11.27:829][496]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.17-00.11.27:829][496]LogAIModule: Creating AISystem for world Top_Down_Drone_test
+[2026.03.17-00.11.27:854][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.03.17-00.11.27:856][496]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.17-00.11.27:856][496]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.056ms to complete.
+[2026.03.17-00.11.27:856][496]LogFileHelpers: Loading map 'Top_Down_Drone_test' took 0.114
+[2026.03.17-00.11.29:552][694]LogEditorViewport: Clicking on Actor (LMB): CameraActor (Camera_1)
+[2026.03.17-00.11.30:648][819]Cmd: DELETE
+[2026.03.17-00.11.30:648][819]Cmd: ACTOR DELETE
+[2026.03.17-00.11.30:648][819]LogEditorActor: Deleted Actor: CameraActor
+[2026.03.17-00.11.30:680][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2026.03.17-00.11.30:683][819]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.03.17-00.11.59:624][244]LogEditorViewport: Clicking on Actor (LMB): K_AI_Camera_C (K_AI_Camera)
+[2026.03.17-00.12.03:203][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Top_Down_Drone_test" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Top_Down_Drone_test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.17-00.12.03:226][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.03.17-00.12.03:240][663]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Top_Down_Drone_test412F6E1F459E7D8F030DB9B79D365E5D.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Top_Down_Drone_test.umap'
+[2026.03.17-00.12.03:252][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Top_Down_Drone_test_BuiltData" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Top_Down_Drone_test_BuiltData.uasset" SILENT=true
+[2026.03.17-00.12.03:257][663]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Top_Down_Drone_test_BuiltData6072287D4C9044A772420A89E974E88C.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Top_Down_Drone_test_BuiltData.uasset'
+[2026.03.17-00.12.03:266][663]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.17-00.12.03:266][663]LogContentValidation: Display: Validating World /Game/Maps/Top_Down_Drone_test.Top_Down_Drone_test
+[2026.03.17-00.12.03:266][663]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Top_Down_Drone_test_BuiltData.Top_Down_Drone_test_BuiltData
+[2026.03.17-00.12.08:135][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2026.03.17-00.12.08:158][231]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen
+[2026.03.17-00.12.08:158][231]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/K_AI_Main_Screen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.17-00.12.08:158][231]LightingResults: New page: Lighting Build
+[2026.03.17-00.12.08:158][231]LoadErrors: New page: Loading map: K_AI_Main_Screen.umap
+[2026.03.17-00.12.08:200][231]LogWorld: UWorld::CleanupWorld for Top_Down_Drone_test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.12.08:200][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.12.08:200][231]MapCheck: New page: Map Check
+[2026.03.17-00.12.08:200][231]LightingResults: New page: Lighting Build
+[2026.03.17-00.12.08:221][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.12.08:224][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.03.17-00.12.08:224][231]LogAudio: Display: Audio Device (ID: 1) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.12.08:242][231]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.17-00.12.08:242][231]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.12.08:265][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.03.17-00.12.08:266][231]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.17-00.12.08:266][231]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.054ms to complete.
+[2026.03.17-00.12.08:266][231]LogFileHelpers: Loading map 'K_AI_Main_Screen' took 0.109
+[2026.03.17-00.12.10:266][465]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2026.03.17-00.12.10:272][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-00.12.10:272][465]PIE: New page: PIE session: K_AI_Main_Screen (Mar 16, 2026, 2:12:10 PM)
+[2026.03.17-00.12.10:272][465]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.12.10:272][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000585s)
+[2026.03.17-00.12.10:274][465]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.12.10:274][465]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2026.03.17-00.12.10:274][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen to /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen (0.001460s)
+[2026.03.17-00.12.10:297][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.03.17-00.12.10:298][465]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.03.17-00.12.10:298][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-00.12.10:298][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-00.12.10:298][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-00.12.10:298][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-00.12.10:298][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-00.12.10:298][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-00.12.10:298][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-00.12.10:298][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-00.12.10:298][465]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-00.12.10:298][465]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-00.12.10:298][465]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-00.12.10:298][465]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.17-00.12.10:305][465]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.17-00.12.10:305][465]LogAudioMixer: Display: 1: FrontRight
+[2026.03.17-00.12.10:317][465]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.17-00.12.10:319][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-00.12.10:319][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-00.12.10:319][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-00.12.10:319][465]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.17-00.12.10:319][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.17-00.12.10:319][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.17-00.12.10:321][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.17-00.12.10:321][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.17-00.12.10:321][465]LogInit: FAudioDevice initialized.
+[2026.03.17-00.12.10:321][465]LogAudio: Display: Audio Device (ID: 9) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.12.10:369][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-00.12.10:369][465]LogLoad: Game class is 'KAI_Screen_mode_C'
+[2026.03.17-00.12.10:370][465]LogWorld: Bringing World /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen up for play (max tick rate 0) at 2026.03.16-19.12.10
+[2026.03.17-00.12.10:370][465]LogWorld: Bringing up level for play took: 0.000344
+[2026.03.17-00.12.10:370][465]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2026.03.17-00.12.10:374][465]PIE: Server logged in
+[2026.03.17-00.12.10:375][465]PIE: Play in editor total start time 0.105 seconds.
+[2026.03.17-00.12.11:542][601]LogNet: Browse: /Game/Maps/Side_Camera_Test
+[2026.03.17-00.12.11:542][601]LogLoad: LoadMap: /Game/Maps/Side_Camera_Test
+[2026.03.17-00.12.11:542][601]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.12.11:542][601]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.12.11:542][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.12.11:600][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.12.11:601][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.03.17-00.12.11:609][601]LogAudio: Display: Audio Device (ID: 9) registered with world 'Side_Camera_Test'.
+[2026.03.17-00.12.11:609][601]LogAIModule: Creating AISystem for world Side_Camera_Test
+[2026.03.17-00.12.11:609][601]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.12.11:611][601]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Side_Camera_Test.Side_Camera_Test up for play (max tick rate 0) at 2026.03.16-19.12.11
+[2026.03.17-00.12.11:611][601]LogWorld: Bringing up level for play took: 0.000825
+[2026.03.17-00.12.11:611][601]LogLoad: Took 0.068579 seconds to LoadMap(/Game/Maps/Side_Camera_Test)
+[2026.03.17-00.12.13:928][878]LogNet: Browse: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.12.13:928][878]LogLoad: LoadMap: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.12.13:928][878]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Side_Camera_Test
+[2026.03.17-00.12.13:928][878]LogWorld: UWorld::CleanupWorld for Side_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.12.13:928][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.12.13:969][878]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.12.13:973][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.03.17-00.12.13:974][878]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.12.13:974][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000573s)
+[2026.03.17-00.12.13:974][878]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.12.13:974][878]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2026.03.17-00.12.13:974][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen to /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen (0.001373s)
+[2026.03.17-00.12.13:974][878]LogAudio: Display: Audio Device (ID: 9) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.12.13:974][878]LogLoad: Game class is 'KAI_Screen_mode_C'
+[2026.03.17-00.12.13:975][878]LogWorld: Bringing World /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen up for play (max tick rate 0) at 2026.03.16-19.12.13
+[2026.03.17-00.12.13:975][878]LogWorld: Bringing up level for play took: 0.000216
+[2026.03.17-00.12.13:975][878]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.17-00.12.13:977][878]LogLoad: Took 0.048014 seconds to LoadMap(/Game/Maps/UEDPIE_0_K_AI_Main_Screen)
+[2026.03.17-00.12.15:109][ 13]LogNet: Browse: /Game/Maps/Top_Down_Drone_test
+[2026.03.17-00.12.15:109][ 13]LogLoad: LoadMap: /Game/Maps/Top_Down_Drone_test
+[2026.03.17-00.12.15:109][ 13]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.12.15:109][ 13]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.12.15:109][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.12.15:169][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.12.15:172][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.03.17-00.12.15:177][ 13]LogAudio: Display: Audio Device (ID: 9) registered with world 'Top_Down_Drone_test'.
+[2026.03.17-00.12.15:177][ 13]LogAIModule: Creating AISystem for world Top_Down_Drone_test
+[2026.03.17-00.12.15:178][ 13]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.12.15:179][ 13]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Top_Down_Drone_test.Top_Down_Drone_test up for play (max tick rate 0) at 2026.03.16-19.12.15
+[2026.03.17-00.12.15:179][ 13]LogWorld: Bringing up level for play took: 0.000719
+[2026.03.17-00.12.15:180][ 13]LogLoad: Took 0.070242 seconds to LoadMap(/Game/Maps/Top_Down_Drone_test)
+[2026.03.17-00.12.17:309][265]LogSlate: Window 'WeirdBox Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2026.03.17-00.12.17:314][265]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Top_Down_Drone_test
+[2026.03.17-00.12.17:340][265]LogWorld: UWorld::CleanupWorld for Top_Down_Drone_test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.12.17:340][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.12.17:347][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-00.12.17:350][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.12.17:371][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.17-00.12.17:373][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.17-00.12.17:377][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.03.17-00.12.17:415][269]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.03.17-00.14.32:239][144]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.14.32:239][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.15.02:584][731]BlueprintLog: New page: Compile Husband_Character_BP
+[2026.03.17-00.15.02:617][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2026.03.17-00.15.03:271][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Character_BP" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Character_BP.uasset" SILENT=true
+[2026.03.17-00.15.03:276][805]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Character_BPF835B00C4CEE394AEFECCC9F78106260.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Character_BP.uasset'
+[2026.03.17-00.15.03:289][805]AssetCheck: New page: Asset Save: Husband_Character_BP
+[2026.03.17-00.15.03:289][805]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Character_BP.Husband_Character_BP
+[2026.03.17-00.15.50:437][418]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cameras/K_AI_Camera.K_AI_Camera
+[2026.03.17-00.15.50:688][419]LogRenderer: Reallocating scene render targets to support 1280x724 Format 10 NumSamples 1 (Frame:1).
+[2026.03.17-00.19.08:432][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2026.03.17-00.19.08:458][375]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Angled_Camera_Test.Angled_Camera_Test
+[2026.03.17-00.19.08:459][375]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Angled_Camera_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.17-00.19.08:459][375]LightingResults: New page: Lighting Build
+[2026.03.17-00.19.08:459][375]LoadErrors: New page: Loading map: Angled_Camera_Test.umap
+[2026.03.17-00.19.08:489][375]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.19.08:489][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.19.08:489][375]MapCheck: New page: Map Check
+[2026.03.17-00.19.08:489][375]LightingResults: New page: Lighting Build
+[2026.03.17-00.19.08:509][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.19.08:512][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.03.17-00.19.08:512][375]LogAudio: Display: Audio Device (ID: 1) registered with world 'Angled_Camera_Test'.
+[2026.03.17-00.19.08:574][375]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.17-00.19.08:574][375]LogAIModule: Creating AISystem for world Angled_Camera_Test
+[2026.03.17-00.19.08:598][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.03.17-00.19.08:600][375]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.17-00.19.08:600][375]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.053ms to complete.
+[2026.03.17-00.19.08:600][375]LogFileHelpers: Loading map 'Angled_Camera_Test' took 0.142
+[2026.03.17-00.19.54:449][799]BlueprintLog: New page: Compile Husband_Character_BP
+[2026.03.17-00.19.54:482][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2026.03.17-00.20.44:641][672]BlueprintLog: New page: Compile Husband_Character_BP
+[2026.03.17-00.20.44:676][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2026.03.17-00.23.16:557][729]LogEditorTransaction: Undo Create Pin Link
+[2026.03.17-00.23.16:949][741]LogEditorTransaction: Undo Move Node
+[2026.03.17-00.23.17:806][832]LogEditorTransaction: Undo Add Node
+[2026.03.17-00.23.18:999][971]LogEditorTransaction: Undo Move Nodes
+[2026.03.17-00.23.27:781][  3]BlueprintLog: New page: Compile Husband_Character_BP
+[2026.03.17-00.23.27:819][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2026.03.17-00.29.57:595][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2026.03.17-00.29.57:597][ 26]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Angled_Camera_Test' took 0.029
+[2026.03.17-00.29.57:597][ 26]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Husband/Husband_Character_BP] ([2] browsable assets)...
+[2026.03.17-00.29.57:597][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/Husband/Husband_Character_BP]
+[2026.03.17-00.29.57:603][ 26]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Character_BP_Auto33D82ACFF4A6C326C93FFC69A5AB0D995.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Autosaves/Game/Husband/Husband_Character_BP_Auto3.uasset'
+[2026.03.17-00.29.57:605][ 26]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.03.17-00.30.50:571][432]BlueprintLog: New page: Compile Husband_Character_BP
+[2026.03.17-00.30.50:609][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2026.03.17-00.31.53:833][551]BlueprintLog: New page: Compile Husband_Character_BP
+[2026.03.17-00.31.53:871][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2026.03.17-00.33.50:680][295]BlueprintLog: New page: Compile Husband_Character_BP
+[2026.03.17-00.33.50:716][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2026.03.17-00.33.51:979][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Character_BP" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Character_BP.uasset" SILENT=true
+[2026.03.17-00.33.51:985][438]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Character_BPD8EE5571445E31CF01A12E8E47D20621.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Character_BP.uasset'
+[2026.03.17-00.33.51:999][438]AssetCheck: New page: Asset Save: Husband_Character_BP
+[2026.03.17-00.33.51:999][438]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Character_BP.Husband_Character_BP
+[2026.03.17-00.35.11:148][182]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2026.03.17-00.35.11:152][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-00.35.11:152][182]PIE: New page: PIE session: Angled_Camera_Test (Mar 16, 2026, 2:35:11 PM)
+[2026.03.17-00.35.11:152][182]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Angled_Camera_Test
+[2026.03.17-00.35.11:155][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002539s)
+[2026.03.17-00.35.11:155][182]LogAIModule: Creating AISystem for world Angled_Camera_Test
+[2026.03.17-00.35.11:156][182]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2026.03.17-00.35.11:156][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Angled_Camera_Test.Angled_Camera_Test to /Game/Maps/UEDPIE_0_Angled_Camera_Test.Angled_Camera_Test (0.003433s)
+[2026.03.17-00.35.11:180][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2026.03.17-00.35.11:182][182]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.03.17-00.35.11:182][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-00.35.11:182][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-00.35.11:182][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-00.35.11:182][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-00.35.11:182][182]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-00.35.11:182][182]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-00.35.11:183][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-00.35.11:183][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-00.35.11:183][182]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-00.35.11:183][182]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-00.35.11:183][182]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-00.35.11:183][182]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.17-00.35.11:189][182]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.17-00.35.11:189][182]LogAudioMixer: Display: 1: FrontRight
+[2026.03.17-00.35.11:202][182]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.17-00.35.11:202][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-00.35.11:202][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-00.35.11:202][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-00.35.11:204][182]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.17-00.35.11:204][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.17-00.35.11:204][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.17-00.35.11:206][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.17-00.35.11:206][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.17-00.35.11:206][182]LogInit: FAudioDevice initialized.
+[2026.03.17-00.35.11:206][182]LogAudio: Display: Audio Device (ID: 10) registered with world 'Angled_Camera_Test'.
+[2026.03.17-00.35.11:241][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-00.35.11:242][182]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.35.11:242][182]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Angled_Camera_Test.Angled_Camera_Test up for play (max tick rate 0) at 2026.03.16-19.35.11
+[2026.03.17-00.35.11:242][182]LogWorld: Bringing up level for play took: 0.000616
+[2026.03.17-00.35.11:242][182]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2026.03.17-00.35.11:261][182]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Husband/Husband_Character_BP.Husband_Character_BP_C:ExecuteUbergraph_Husband_Character_BP'!
+[2026.03.17-00.35.11:262][182]PIE: Server logged in
+[2026.03.17-00.35.11:264][182]PIE: Play in editor total start time 0.112 seconds.
+[2026.03.17-00.35.15:921][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-00.35.15:921][733]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Angled_Camera_Test
+[2026.03.17-00.35.15:922][733]LogSlate: Window 'WeirdBox Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2026.03.17-00.35.15:925][733]LogWorld: UWorld::CleanupWorld for Angled_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.35.15:926][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.35.15:931][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-00.35.15:942][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.35.15:962][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.35.15:962][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.17-00.35.15:963][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.17-00.35.15:969][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.03.17-00.35.15:999][735]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.03.17-00.35.19:911][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.03.17-00.35.19:928][184]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen
+[2026.03.17-00.35.19:928][184]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/K_AI_Main_Screen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.17-00.35.19:928][184]LightingResults: New page: Lighting Build
+[2026.03.17-00.35.19:929][184]LoadErrors: New page: Loading map: K_AI_Main_Screen.umap
+[2026.03.17-00.35.19:961][184]LogWorld: UWorld::CleanupWorld for Angled_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.35.19:961][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.35.19:961][184]MapCheck: New page: Map Check
+[2026.03.17-00.35.19:961][184]LightingResults: New page: Lighting Build
+[2026.03.17-00.35.19:981][184]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.35.19:984][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2026.03.17-00.35.19:984][184]LogAudio: Display: Audio Device (ID: 1) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.35.20:045][184]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.17-00.35.20:045][184]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.35.20:070][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.03.17-00.35.20:071][184]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.17-00.35.20:071][184]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.053ms to complete.
+[2026.03.17-00.35.20:071][184]LogFileHelpers: Loading map 'K_AI_Main_Screen' took 0.144
+[2026.03.17-00.35.24:012][631]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2026.03.17-00.35.24:017][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-00.35.24:017][631]PIE: New page: PIE session: K_AI_Main_Screen (Mar 16, 2026, 2:35:24 PM)
+[2026.03.17-00.35.24:017][631]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.35.24:018][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000579s)
+[2026.03.17-00.35.24:018][631]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.35.24:018][631]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2026.03.17-00.35.24:018][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen to /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen (0.001377s)
+[2026.03.17-00.35.24:042][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.03.17-00.35.24:043][631]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.03.17-00.35.24:043][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-00.35.24:043][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-00.35.24:043][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-00.35.24:043][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-00.35.24:043][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-00.35.24:043][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-00.35.24:043][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-00.35.24:043][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-00.35.24:043][631]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-00.35.24:043][631]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-00.35.24:043][631]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-00.35.24:043][631]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.17-00.35.24:049][631]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.17-00.35.24:049][631]LogAudioMixer: Display: 1: FrontRight
+[2026.03.17-00.35.24:063][631]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.17-00.35.24:063][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-00.35.24:063][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-00.35.24:063][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-00.35.24:063][631]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.17-00.35.24:063][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.17-00.35.24:063][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.17-00.35.24:064][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.17-00.35.24:064][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.17-00.35.24:064][631]LogInit: FAudioDevice initialized.
+[2026.03.17-00.35.24:064][631]LogAudio: Display: Audio Device (ID: 11) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.35.24:107][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-00.35.24:107][631]LogLoad: Game class is 'KAI_Screen_mode_C'
+[2026.03.17-00.35.24:108][631]LogWorld: Bringing World /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen up for play (max tick rate 0) at 2026.03.16-19.35.24
+[2026.03.17-00.35.24:108][631]LogWorld: Bringing up level for play took: 0.000314
+[2026.03.17-00.35.24:109][631]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2026.03.17-00.35.24:113][631]PIE: Server logged in
+[2026.03.17-00.35.24:114][631]PIE: Play in editor total start time 0.097 seconds.
+[2026.03.17-00.35.25:025][736]LogNet: Browse: /Game/Maps/Side_Camera_Test
+[2026.03.17-00.35.25:025][736]LogLoad: LoadMap: /Game/Maps/Side_Camera_Test
+[2026.03.17-00.35.25:025][736]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.35.25:025][736]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.35.25:025][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.35.25:090][736]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.35.25:093][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.03.17-00.35.25:097][736]LogAudio: Display: Audio Device (ID: 11) registered with world 'Side_Camera_Test'.
+[2026.03.17-00.35.25:099][736]LogAIModule: Creating AISystem for world Side_Camera_Test
+[2026.03.17-00.35.25:099][736]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.35.25:100][736]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Side_Camera_Test.Side_Camera_Test up for play (max tick rate 0) at 2026.03.16-19.35.25
+[2026.03.17-00.35.25:100][736]LogWorld: Bringing up level for play took: 0.000743
+[2026.03.17-00.35.25:100][736]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Husband/Husband_Character_BP.Husband_Character_BP_C:ExecuteUbergraph_Husband_Character_BP'!
+[2026.03.17-00.35.25:100][736]LogLoad: Took 0.075625 seconds to LoadMap(/Game/Maps/Side_Camera_Test)
+[2026.03.17-00.35.27:801][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-00.35.27:801][ 56]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Side_Camera_Test
+[2026.03.17-00.35.27:802][ 56]LogSlate: Window 'WeirdBox Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2026.03.17-00.35.27:805][ 56]LogWorld: UWorld::CleanupWorld for Side_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.35.27:805][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.35.27:811][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-00.35.27:815][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.35.27:835][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.17-00.35.27:836][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.17-00.35.27:841][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.03.17-00.35.27:880][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.03.17-00.35.34:726][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2026.03.17-00.35.34:747][859]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Angled_Camera_Test.Angled_Camera_Test
+[2026.03.17-00.35.34:747][859]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/Angled_Camera_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.17-00.35.34:747][859]LightingResults: New page: Lighting Build
+[2026.03.17-00.35.34:748][859]LoadErrors: New page: Loading map: Angled_Camera_Test.umap
+[2026.03.17-00.35.34:791][859]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.35.34:791][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.35.34:791][859]MapCheck: New page: Map Check
+[2026.03.17-00.35.34:791][859]LightingResults: New page: Lighting Build
+[2026.03.17-00.35.34:810][859]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.35.34:813][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.03.17-00.35.34:813][859]LogAudio: Display: Audio Device (ID: 1) registered with world 'Angled_Camera_Test'.
+[2026.03.17-00.35.34:878][859]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.17-00.35.34:878][859]LogAIModule: Creating AISystem for world Angled_Camera_Test
+[2026.03.17-00.35.34:901][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.03.17-00.35.34:904][859]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.17-00.35.34:904][859]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.058ms to complete.
+[2026.03.17-00.35.34:904][859]LogFileHelpers: Loading map 'Angled_Camera_Test' took 0.157
+[2026.03.17-00.35.37:813][205]LogEditorViewport: Clicking on Actor (LMB): K_AI_Camera_C (K_AI_Camera)
+[2026.03.17-00.36.15:755][720]LogEditorTransaction: Undo Delete current selection
+[2026.03.17-00.36.23:892][624]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.17-00.36.23:912][624]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.03.17-00.36.33:920][810]BlueprintLog: New page: Compile Husband_Character_BP
+[2026.03.17-00.36.33:957][810]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2026.03.17-00.36.34:741][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Husband/Husband_Character_BP" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Character_BP.uasset" SILENT=true
+[2026.03.17-00.36.34:747][900]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/Husband_Character_BP32D4147B49F01CAC4C3D60B2A0D6D679.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Husband/Husband_Character_BP.uasset'
+[2026.03.17-00.36.34:760][900]AssetCheck: New page: Asset Save: Husband_Character_BP
+[2026.03.17-00.36.34:760][900]LogContentValidation: Display: Validating Blueprint /Game/Husband/Husband_Character_BP.Husband_Character_BP
+[2026.03.17-00.36.37:530][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2026.03.17-00.36.37:561][216]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen
+[2026.03.17-00.36.37:561][216]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/K_AI_Main_Screen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.03.17-00.36.37:561][216]LightingResults: New page: Lighting Build
+[2026.03.17-00.36.37:561][216]LoadErrors: New page: Loading map: K_AI_Main_Screen.umap
+[2026.03.17-00.36.37:562][216]LogWorld: UWorld::CleanupWorld for Angled_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.36.37:562][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.36.37:562][216]MapCheck: New page: Map Check
+[2026.03.17-00.36.37:562][216]LightingResults: New page: Lighting Build
+[2026.03.17-00.36.37:582][216]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.36.37:586][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2026.03.17-00.36.37:586][216]LogAudio: Display: Audio Device (ID: 1) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.36.37:652][216]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.17-00.36.37:652][216]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.36.37:677][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.03.17-00.36.37:679][216]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.17-00.36.37:679][216]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.062ms to complete.
+[2026.03.17-00.36.37:679][216]LogFileHelpers: Loading map 'K_AI_Main_Screen' took 0.118
+[2026.03.17-00.36.40:804][571]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2026.03.17-00.36.40:808][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-00.36.40:808][571]PIE: New page: PIE session: K_AI_Main_Screen (Mar 16, 2026, 2:36:40 PM)
+[2026.03.17-00.36.40:808][571]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.36.40:809][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000580s)
+[2026.03.17-00.36.40:809][571]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.36.40:810][571]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2026.03.17-00.36.40:810][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen to /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen (0.001442s)
+[2026.03.17-00.36.40:833][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.03.17-00.36.40:833][571]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.03.17-00.36.40:833][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-00.36.40:833][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-00.36.40:833][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-00.36.40:833][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-00.36.40:833][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-00.36.40:833][571]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-00.36.40:833][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-00.36.40:833][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-00.36.40:833][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-00.36.40:833][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-00.36.40:835][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-00.36.40:835][571]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.17-00.36.40:841][571]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.17-00.36.40:841][571]LogAudioMixer: Display: 1: FrontRight
+[2026.03.17-00.36.40:853][571]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.17-00.36.40:853][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-00.36.40:853][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-00.36.40:853][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-00.36.40:853][571]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.17-00.36.40:853][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.17-00.36.40:853][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.17-00.36.40:855][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.17-00.36.40:855][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.17-00.36.40:855][571]LogInit: FAudioDevice initialized.
+[2026.03.17-00.36.40:855][571]LogAudio: Display: Audio Device (ID: 12) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.36.40:905][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-00.36.40:905][571]LogLoad: Game class is 'KAI_Screen_mode_C'
+[2026.03.17-00.36.40:907][571]LogWorld: Bringing World /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen up for play (max tick rate 0) at 2026.03.16-19.36.40
+[2026.03.17-00.36.40:907][571]LogWorld: Bringing up level for play took: 0.000325
+[2026.03.17-00.36.40:907][571]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2026.03.17-00.36.40:910][571]PIE: Server logged in
+[2026.03.17-00.36.40:911][571]PIE: Play in editor total start time 0.105 seconds.
+[2026.03.17-00.36.41:830][675]LogNet: Browse: /Game/Maps/Side_Camera_Test
+[2026.03.17-00.36.41:830][675]LogLoad: LoadMap: /Game/Maps/Side_Camera_Test
+[2026.03.17-00.36.41:830][675]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.36.41:831][675]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.36.41:831][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.36.41:880][675]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.36.41:882][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.03.17-00.36.41:888][675]LogAudio: Display: Audio Device (ID: 12) registered with world 'Side_Camera_Test'.
+[2026.03.17-00.36.41:888][675]LogAIModule: Creating AISystem for world Side_Camera_Test
+[2026.03.17-00.36.41:888][675]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.36.41:890][675]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Side_Camera_Test.Side_Camera_Test up for play (max tick rate 0) at 2026.03.16-19.36.41
+[2026.03.17-00.36.41:890][675]LogWorld: Bringing up level for play took: 0.000734
+[2026.03.17-00.36.41:890][675]LogLoad: Took 0.060356 seconds to LoadMap(/Game/Maps/Side_Camera_Test)
+[2026.03.17-00.36.46:512][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-00.36.46:512][225]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Side_Camera_Test
+[2026.03.17-00.36.46:512][225]LogSlate: Window 'WeirdBox Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2026.03.17-00.36.46:515][225]LogWorld: UWorld::CleanupWorld for Side_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.36.46:515][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.36.46:521][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-00.36.46:526][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.36.46:547][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.17-00.36.46:547][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.17-00.36.46:552][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2026.03.17-00.36.46:585][227]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.03.17-00.36.49:625][574]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2026.03.17-00.36.49:631][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-00.36.49:631][574]PIE: New page: PIE session: K_AI_Main_Screen (Mar 16, 2026, 2:36:49 PM)
+[2026.03.17-00.36.49:631][574]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.36.49:631][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000576s)
+[2026.03.17-00.36.49:632][574]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.36.49:632][574]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2026.03.17-00.36.49:632][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen to /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen (0.001479s)
+[2026.03.17-00.36.49:654][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.03.17-00.36.49:655][574]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.03.17-00.36.49:655][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-00.36.49:655][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-00.36.49:655][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-00.36.49:655][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-00.36.49:655][574]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-00.36.49:655][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-00.36.49:655][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-00.36.49:655][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-00.36.49:655][574]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-00.36.49:655][574]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-00.36.49:655][574]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-00.36.49:655][574]LogAudioMixer: Display: Initializing audio mixer.
+[2026.03.17-00.36.49:662][574]LogAudioMixer: Display: 0: FrontLeft
+[2026.03.17-00.36.49:662][574]LogAudioMixer: Display: 1: FrontRight
+[2026.03.17-00.36.49:674][574]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2026.03.17-00.36.49:674][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-00.36.49:674][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-00.36.49:674][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-00.36.49:674][574]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.03.17-00.36.49:675][574]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.03.17-00.36.49:675][574]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.03.17-00.36.49:675][574]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.03.17-00.36.49:675][574]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.03.17-00.36.49:675][574]LogInit: FAudioDevice initialized.
+[2026.03.17-00.36.49:675][574]LogAudio: Display: Audio Device (ID: 13) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.36.49:722][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-00.36.49:724][574]LogLoad: Game class is 'KAI_Screen_mode_C'
+[2026.03.17-00.36.49:724][574]LogWorld: Bringing World /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen up for play (max tick rate 0) at 2026.03.16-19.36.49
+[2026.03.17-00.36.49:724][574]LogWorld: Bringing up level for play took: 0.000345
+[2026.03.17-00.36.49:724][574]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2026.03.17-00.36.49:728][574]PIE: Server logged in
+[2026.03.17-00.36.49:728][574]PIE: Play in editor total start time 0.1 seconds.
+[2026.03.17-00.36.50:789][697]LogNet: Browse: /Game/Maps/Angled_Camera_Test
+[2026.03.17-00.36.50:790][697]LogLoad: LoadMap: /Game/Maps/Angled_Camera_Test
+[2026.03.17-00.36.50:790][697]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.36.50:790][697]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.36.50:790][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.36.50:851][697]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.36.50:854][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.03.17-00.36.50:858][697]LogAudio: Display: Audio Device (ID: 13) registered with world 'Angled_Camera_Test'.
+[2026.03.17-00.36.50:860][697]LogAIModule: Creating AISystem for world Angled_Camera_Test
+[2026.03.17-00.36.50:860][697]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.36.50:862][697]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Angled_Camera_Test.Angled_Camera_Test up for play (max tick rate 0) at 2026.03.16-19.36.50
+[2026.03.17-00.36.50:862][697]LogWorld: Bringing up level for play took: 0.000804
+[2026.03.17-00.36.50:862][697]LogLoad: Took 0.072713 seconds to LoadMap(/Game/Maps/Angled_Camera_Test)
+[2026.03.17-00.39.49:259][287]LogNet: Browse: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.39.49:259][287]LogLoad: LoadMap: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.39.49:259][287]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Angled_Camera_Test
+[2026.03.17-00.39.49:260][287]LogWorld: UWorld::CleanupWorld for Angled_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.39.49:260][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.39.49:305][287]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.39.49:308][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2026.03.17-00.39.49:310][287]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.39.49:310][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000562s)
+[2026.03.17-00.39.49:310][287]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.39.49:310][287]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2026.03.17-00.39.49:310][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen to /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen (0.001402s)
+[2026.03.17-00.39.49:310][287]LogAudio: Display: Audio Device (ID: 13) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.39.49:310][287]LogLoad: Game class is 'KAI_Screen_mode_C'
+[2026.03.17-00.39.49:312][287]LogWorld: Bringing World /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen up for play (max tick rate 0) at 2026.03.16-19.39.49
+[2026.03.17-00.39.49:312][287]LogWorld: Bringing up level for play took: 0.000265
+[2026.03.17-00.39.49:312][287]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.17-00.39.49:313][287]LogLoad: Took 0.053104 seconds to LoadMap(/Game/Maps/UEDPIE_0_K_AI_Main_Screen)
+[2026.03.17-00.39.50:619][443]LogNet: Browse: /Game/Maps/Angled_Camera_Test
+[2026.03.17-00.39.50:619][443]LogLoad: LoadMap: /Game/Maps/Angled_Camera_Test
+[2026.03.17-00.39.50:619][443]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.39.50:620][443]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.39.50:620][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.39.50:675][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.39.50:676][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.03.17-00.39.50:681][443]LogAudio: Display: Audio Device (ID: 13) registered with world 'Angled_Camera_Test'.
+[2026.03.17-00.39.50:681][443]LogAIModule: Creating AISystem for world Angled_Camera_Test
+[2026.03.17-00.39.50:681][443]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.39.50:682][443]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Angled_Camera_Test.Angled_Camera_Test up for play (max tick rate 0) at 2026.03.16-19.39.50
+[2026.03.17-00.39.50:683][443]LogWorld: Bringing up level for play took: 0.000784
+[2026.03.17-00.39.50:683][443]LogLoad: Took 0.064017 seconds to LoadMap(/Game/Maps/Angled_Camera_Test)
+[2026.03.17-00.39.53:881][826]LogNet: Browse: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.39.53:881][826]LogLoad: LoadMap: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.39.53:881][826]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Angled_Camera_Test
+[2026.03.17-00.39.53:881][826]LogWorld: UWorld::CleanupWorld for Angled_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.39.53:882][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.39.53:934][826]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.39.53:937][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.03.17-00.39.53:938][826]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.39.53:938][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000542s)
+[2026.03.17-00.39.53:940][826]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.39.53:940][826]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2026.03.17-00.39.53:940][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen to /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen (0.001372s)
+[2026.03.17-00.39.53:940][826]LogAudio: Display: Audio Device (ID: 13) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.39.53:940][826]LogLoad: Game class is 'KAI_Screen_mode_C'
+[2026.03.17-00.39.53:940][826]LogWorld: Bringing World /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen up for play (max tick rate 0) at 2026.03.16-19.39.53
+[2026.03.17-00.39.53:940][826]LogWorld: Bringing up level for play took: 0.000217
+[2026.03.17-00.39.53:940][826]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.17-00.39.53:941][826]LogLoad: Took 0.060168 seconds to LoadMap(/Game/Maps/UEDPIE_0_K_AI_Main_Screen)
+[2026.03.17-00.39.54:681][914]LogNet: Browse: /Game/Maps/Side_Camera_Test
+[2026.03.17-00.39.54:681][914]LogLoad: LoadMap: /Game/Maps/Side_Camera_Test
+[2026.03.17-00.39.54:681][914]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.39.54:681][914]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.39.54:681][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.39.54:725][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.39.54:728][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.03.17-00.39.54:733][914]LogAudio: Display: Audio Device (ID: 13) registered with world 'Side_Camera_Test'.
+[2026.03.17-00.39.54:733][914]LogAIModule: Creating AISystem for world Side_Camera_Test
+[2026.03.17-00.39.54:733][914]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.39.54:734][914]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Side_Camera_Test.Side_Camera_Test up for play (max tick rate 0) at 2026.03.16-19.39.54
+[2026.03.17-00.39.54:734][914]LogWorld: Bringing up level for play took: 0.000837
+[2026.03.17-00.39.54:736][914]LogLoad: Took 0.054341 seconds to LoadMap(/Game/Maps/Side_Camera_Test)
+[2026.03.17-00.39.56:624][140]LogNet: Browse: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.39.56:624][140]LogLoad: LoadMap: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.39.56:624][140]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Side_Camera_Test
+[2026.03.17-00.39.56:624][140]LogWorld: UWorld::CleanupWorld for Side_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.39.56:624][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.39.56:684][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.39.56:687][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.03.17-00.39.56:689][140]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.39.56:689][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000565s)
+[2026.03.17-00.39.56:690][140]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.39.56:690][140]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2026.03.17-00.39.56:690][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen to /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen (0.001384s)
+[2026.03.17-00.39.56:690][140]LogAudio: Display: Audio Device (ID: 13) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.39.56:690][140]LogLoad: Game class is 'KAI_Screen_mode_C'
+[2026.03.17-00.39.56:691][140]LogWorld: Bringing World /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen up for play (max tick rate 0) at 2026.03.16-19.39.56
+[2026.03.17-00.39.56:691][140]LogWorld: Bringing up level for play took: 0.000225
+[2026.03.17-00.39.56:691][140]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.17-00.39.56:692][140]LogLoad: Took 0.066579 seconds to LoadMap(/Game/Maps/UEDPIE_0_K_AI_Main_Screen)
+[2026.03.17-00.39.57:648][254]LogNet: Browse: /Game/Maps/Top_Down_Drone_test
+[2026.03.17-00.39.57:648][254]LogLoad: LoadMap: /Game/Maps/Top_Down_Drone_test
+[2026.03.17-00.39.57:648][254]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.39.57:648][254]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.39.57:648][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.39.57:714][254]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.39.57:716][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.03.17-00.39.57:720][254]LogAudio: Display: Audio Device (ID: 13) registered with world 'Top_Down_Drone_test'.
+[2026.03.17-00.39.57:721][254]LogAIModule: Creating AISystem for world Top_Down_Drone_test
+[2026.03.17-00.39.57:721][254]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.39.57:722][254]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Top_Down_Drone_test.Top_Down_Drone_test up for play (max tick rate 0) at 2026.03.16-19.39.57
+[2026.03.17-00.39.57:722][254]LogWorld: Bringing up level for play took: 0.000724
+[2026.03.17-00.39.57:722][254]LogLoad: Took 0.075122 seconds to LoadMap(/Game/Maps/Top_Down_Drone_test)
+[2026.03.17-00.40.04:763][ 98]LogNet: Browse: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.40.04:763][ 98]LogLoad: LoadMap: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.40.04:763][ 98]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Top_Down_Drone_test
+[2026.03.17-00.40.04:763][ 98]LogWorld: UWorld::CleanupWorld for Top_Down_Drone_test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.40.04:763][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.40.04:815][ 98]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.40.04:818][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.03.17-00.40.04:819][ 98]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.40.04:819][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000543s)
+[2026.03.17-00.40.04:819][ 98]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.40.04:821][ 98]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2026.03.17-00.40.04:821][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen to /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen (0.001346s)
+[2026.03.17-00.40.04:821][ 98]LogAudio: Display: Audio Device (ID: 13) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.40.04:821][ 98]LogLoad: Game class is 'KAI_Screen_mode_C'
+[2026.03.17-00.40.04:821][ 98]LogWorld: Bringing World /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen up for play (max tick rate 0) at 2026.03.16-19.40.04
+[2026.03.17-00.40.04:821][ 98]LogWorld: Bringing up level for play took: 0.000216
+[2026.03.17-00.40.04:821][ 98]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.17-00.40.04:822][ 98]LogLoad: Took 0.058775 seconds to LoadMap(/Game/Maps/UEDPIE_0_K_AI_Main_Screen)
+[2026.03.17-00.43.01:231][510]LogNet: Browse: /Game/Maps/Side_Camera_Test
+[2026.03.17-00.43.01:231][510]LogLoad: LoadMap: /Game/Maps/Side_Camera_Test
+[2026.03.17-00.43.01:231][510]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.43.01:231][510]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.43.01:231][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.43.01:253][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.43.01:256][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.03.17-00.43.01:261][510]LogAudio: Display: Audio Device (ID: 13) registered with world 'Side_Camera_Test'.
+[2026.03.17-00.43.01:262][510]LogAIModule: Creating AISystem for world Side_Camera_Test
+[2026.03.17-00.43.01:263][510]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.43.01:264][510]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Side_Camera_Test.Side_Camera_Test up for play (max tick rate 0) at 2026.03.16-19.43.01
+[2026.03.17-00.43.01:264][510]LogWorld: Bringing up level for play took: 0.000764
+[2026.03.17-00.43.01:264][510]LogLoad: Took 0.032820 seconds to LoadMap(/Game/Maps/Side_Camera_Test)
+[2026.03.17-00.43.02:780][677]LogNet: Browse: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.43.02:780][677]LogLoad: LoadMap: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.43.02:780][677]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Side_Camera_Test
+[2026.03.17-00.43.02:780][677]LogWorld: UWorld::CleanupWorld for Side_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.43.02:780][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.43.02:848][677]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.43.02:851][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.03.17-00.43.02:853][677]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.43.02:853][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000560s)
+[2026.03.17-00.43.02:853][677]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.43.02:854][677]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2026.03.17-00.43.02:854][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen to /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen (0.001384s)
+[2026.03.17-00.43.02:854][677]LogAudio: Display: Audio Device (ID: 13) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.43.02:854][677]LogLoad: Game class is 'KAI_Screen_mode_C'
+[2026.03.17-00.43.02:854][677]LogWorld: Bringing World /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen up for play (max tick rate 0) at 2026.03.16-19.43.02
+[2026.03.17-00.43.02:854][677]LogWorld: Bringing up level for play took: 0.000221
+[2026.03.17-00.43.02:854][677]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.17-00.43.02:856][677]LogLoad: Took 0.075619 seconds to LoadMap(/Game/Maps/UEDPIE_0_K_AI_Main_Screen)
+[2026.03.17-00.43.03:455][748]LogNet: Browse: /Game/Maps/Angled_Camera_Test
+[2026.03.17-00.43.03:455][748]LogLoad: LoadMap: /Game/Maps/Angled_Camera_Test
+[2026.03.17-00.43.03:455][748]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.43.03:455][748]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.43.03:456][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.43.03:511][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.43.03:512][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.03.17-00.43.03:517][748]LogAudio: Display: Audio Device (ID: 13) registered with world 'Angled_Camera_Test'.
+[2026.03.17-00.43.03:517][748]LogAIModule: Creating AISystem for world Angled_Camera_Test
+[2026.03.17-00.43.03:517][748]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.43.03:518][748]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Angled_Camera_Test.Angled_Camera_Test up for play (max tick rate 0) at 2026.03.16-19.43.03
+[2026.03.17-00.43.03:518][748]LogWorld: Bringing up level for play took: 0.000697
+[2026.03.17-00.43.03:518][748]LogLoad: Took 0.064244 seconds to LoadMap(/Game/Maps/Angled_Camera_Test)
+[2026.03.17-00.43.04:666][885]LogNet: Browse: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.43.04:668][885]LogLoad: LoadMap: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.43.04:668][885]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Angled_Camera_Test
+[2026.03.17-00.43.04:668][885]LogWorld: UWorld::CleanupWorld for Angled_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.43.04:668][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.43.04:719][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.43.04:723][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.03.17-00.43.04:723][885]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.43.04:723][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000585s)
+[2026.03.17-00.43.04:724][885]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.43.04:724][885]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2026.03.17-00.43.04:724][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen to /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen (0.001409s)
+[2026.03.17-00.43.04:724][885]LogAudio: Display: Audio Device (ID: 13) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.43.04:724][885]LogLoad: Game class is 'KAI_Screen_mode_C'
+[2026.03.17-00.43.04:725][885]LogWorld: Bringing World /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen up for play (max tick rate 0) at 2026.03.16-19.43.04
+[2026.03.17-00.43.04:725][885]LogWorld: Bringing up level for play took: 0.000236
+[2026.03.17-00.43.04:725][885]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.17-00.43.04:726][885]LogLoad: Took 0.059144 seconds to LoadMap(/Game/Maps/UEDPIE_0_K_AI_Main_Screen)
+[2026.03.17-00.43.05:233][945]LogNet: Browse: /Game/Maps/Top_Down_Drone_test
+[2026.03.17-00.43.05:233][945]LogLoad: LoadMap: /Game/Maps/Top_Down_Drone_test
+[2026.03.17-00.43.05:233][945]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.43.05:233][945]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.43.05:233][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.43.05:278][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.43.05:281][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.03.17-00.43.05:284][945]LogAudio: Display: Audio Device (ID: 13) registered with world 'Top_Down_Drone_test'.
+[2026.03.17-00.43.05:285][945]LogAIModule: Creating AISystem for world Top_Down_Drone_test
+[2026.03.17-00.43.05:285][945]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.43.05:287][945]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Top_Down_Drone_test.Top_Down_Drone_test up for play (max tick rate 0) at 2026.03.16-19.43.05
+[2026.03.17-00.43.05:287][945]LogWorld: Bringing up level for play took: 0.000911
+[2026.03.17-00.43.05:288][945]LogLoad: Took 0.054990 seconds to LoadMap(/Game/Maps/Top_Down_Drone_test)
+[2026.03.17-00.43.06:599][101]LogNet: Browse: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.43.06:599][101]LogLoad: LoadMap: /Game/Maps/K_AI_Main_Screen
+[2026.03.17-00.43.06:599][101]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Top_Down_Drone_test
+[2026.03.17-00.43.06:599][101]LogWorld: UWorld::CleanupWorld for Top_Down_Drone_test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.43.06:599][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.43.06:662][101]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.43.06:665][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.03.17-00.43.06:665][101]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.43.06:667][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000585s)
+[2026.03.17-00.43.06:667][101]LogAIModule: Creating AISystem for world K_AI_Main_Screen
+[2026.03.17-00.43.06:667][101]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2026.03.17-00.43.06:667][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen to /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen (0.001400s)
+[2026.03.17-00.43.06:667][101]LogAudio: Display: Audio Device (ID: 13) registered with world 'K_AI_Main_Screen'.
+[2026.03.17-00.43.06:667][101]LogLoad: Game class is 'KAI_Screen_mode_C'
+[2026.03.17-00.43.06:668][101]LogWorld: Bringing World /Game/Maps/UEDPIE_0_K_AI_Main_Screen.K_AI_Main_Screen up for play (max tick rate 0) at 2026.03.16-19.43.06
+[2026.03.17-00.43.06:668][101]LogWorld: Bringing up level for play took: 0.000266
+[2026.03.17-00.43.06:668][101]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.17-00.43.06:668][101]LogLoad: Took 0.070123 seconds to LoadMap(/Game/Maps/UEDPIE_0_K_AI_Main_Screen)
+[2026.03.17-00.43.07:234][168]LogNet: Browse: /Game/Maps/Angled_Camera_Test
+[2026.03.17-00.43.07:234][168]LogLoad: LoadMap: /Game/Maps/Angled_Camera_Test
+[2026.03.17-00.43.07:234][168]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_K_AI_Main_Screen
+[2026.03.17-00.43.07:234][168]LogWorld: UWorld::CleanupWorld for K_AI_Main_Screen, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.43.07:234][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.43.07:284][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.43.07:288][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2026.03.17-00.43.07:293][168]LogAudio: Display: Audio Device (ID: 13) registered with world 'Angled_Camera_Test'.
+[2026.03.17-00.43.07:293][168]LogAIModule: Creating AISystem for world Angled_Camera_Test
+[2026.03.17-00.43.07:293][168]LogLoad: Game class is 'KAI_Game_Mode_C'
+[2026.03.17-00.43.07:296][168]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Angled_Camera_Test.Angled_Camera_Test up for play (max tick rate 0) at 2026.03.16-19.43.07
+[2026.03.17-00.43.07:296][168]LogWorld: Bringing up level for play took: 0.001164
+[2026.03.17-00.43.07:298][168]LogLoad: Took 0.063670 seconds to LoadMap(/Game/Maps/Angled_Camera_Test)
+[2026.03.17-00.53.54:700][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/K_AI_Main_Screen" FILE="../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/K_AI_Main_Screen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.17-00.53.54:723][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2026.03.17-00.53.54:726][271]LogSavePackage: Moving '../../../../../UnrealProjects/CyberKittysWeirdBox/Saved/K_AI_Main_Screen97A7E2E6422552F4D092A09B52BDD7B8.tmp' to '../../../../../UnrealProjects/CyberKittysWeirdBox/Content/Maps/K_AI_Main_Screen.umap'
+[2026.03.17-00.53.54:737][271]AssetCheck: New page: Asset Save: K_AI_Main_Screen
+[2026.03.17-00.53.54:737][271]LogContentValidation: Display: Validating World /Game/Maps/K_AI_Main_Screen.K_AI_Main_Screen
+[2026.03.17-00.53.56:675][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.17-00.54.12:883][338]LogSlate: Window 'WeirdBox Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2026.03.17-00.54.13:068][338]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Angled_Camera_Test
+[2026.03.17-00.54.13:068][338]LogWorld: UWorld::CleanupWorld for Angled_Camera_Test, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-00.54.13:068][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.54.13:072][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-00.54.13:077][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-00.54.13:097][338]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-00.54.13:097][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.17-00.54.13:098][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.03.17-00.54.13:103][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.03.17-00.54.13:400][339]LogPlayLevel: Display: Destroying online subsystem :Context_35
